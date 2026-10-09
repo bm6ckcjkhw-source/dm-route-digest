@@ -1,0 +1,1797 @@
+{
+ "updated": "2026-10-09T07:29:35Z",
+ "summary": "Daugelyje vietų sąlygos įprastos: dažniausiai pasitaiko kelio darbų, pasienio patikrų ir kišenvagių lankomose vietose. Labiausiai pasiruoškite 7-ajai dienai (11-05). Tą dieną Prancūzijoje paskelbtas nacionalinis streikas ir demonstracijos, o Grand Est ir Elzase dalyje degalinių trūksta degalų, todėl iš Reimso išvykite anksti ir pilnu baku. Vogėzų perėjoms nuo 11-01 privaloma žieminė įranga (3PMSF padangos arba grandinės). Priklijuokite Crit'Air (Ruanas, Reimsas) ir žalią Umweltzone (Kelnas, Achenas) lipdukus. 1-ą dieną A10/A2 poilsio aikštelėse būkite budrūs, nes policija ten fiksavo gudrias vagystes.",
+ "top": [
+  "fr-strike-1105",
+  "lor-carburant-ge",
+  "lor-loi-montagne",
+  "de-n1",
+  "fr-zfe-reims",
+  "pl-border-checks-2027",
+  "de-n2",
+  "de-n4"
+ ],
+ "dayNotes": [
+  {
+   "day": 1,
+   "note": "A10/A2 aikštelėse – gudrios vagystės: naktį nestokite, automobilį rakinkite. Pasienyje patikros – dokumentai po ranka."
+  },
+  {
+   "day": 2,
+   "note": "Kelne ir Achene būtinas žalias Umweltzone lipdukas. Prie Domo – kišenvagiai. Leverkuzeną (A1) pravažiuokite iki ~13 val."
+  },
+  {
+   "day": 3,
+   "note": "Belgijoje E42 darbai (50 km/h), streikų nėra. Šventė – daug lankytojų. A13 susimokėkite per 72 val., Ruanui – Crit'Air."
+  },
+  {
+   "day": 4,
+   "note": "Etretoje laikykitės bent 5 m nuo uolų krašto, statykite oficialiose aikštelėse (mokama 9–19 val.), salone nieko nepalikite."
+  },
+  {
+   "day": 5,
+   "note": "Iš Šartro po 9.30, rinkitės N104. Dalyje degalinių trūksta degalų – pilkitės iš anksto. Reimse – Crit'Air, A344 nuovaža uždaryta."
+  },
+  {
+   "day": 6,
+   "note": "Degustacijose vairuotojas negeria (0,5 ‰). Vakare pripilkite pilną baką – rytoj streikas, Grand Est trūksta degalų."
+  },
+  {
+   "day": 7,
+   "note": "Nacionalinis streikas: išvykite anksti pilnu baku, venkite Reimso ir Meco centrų. Vogėzuose privaloma žieminė įranga."
+  },
+  {
+   "day": 8,
+   "note": "Kertant Reiną – Vokietijos patikros. A5/A6/A7 darbai, Bavarijos atostogų pabaiga: išvykite anksti, baką pildykite iš anksto."
+  },
+  {
+   "day": 9,
+   "note": "Prie Bayreutho A9 siaurinimas, Gerlice – Lenkijos patikros (dokumentai). Budyšino turgų patikrinkite telefonu; A1 – 60 km/h."
+  },
+  {
+   "day": 10,
+   "note": "Lenkijoje sekmadienį parduotuvės uždarytos – maisto nusipirkite šeštadienį. Prie Kauno A5 Garliava–Mauručiai darbai."
+  }
+ ],
+ "places": [
+  {
+   "id": "warszawa",
+   "name": "Varšuva",
+   "country": "PL",
+   "days": [
+    1,
+    10
+   ],
+   "level": 2,
+   "reasons": [
+    "10-30 – Visų šventųjų savaitgalio išvakarės: tikėtinas didelis eismas ir akcija „Znicz“ (2026 m. datos dar neskelbtos).",
+    "S8 per Varšuvą naktimis (20–5 val.) remontas: lieka 1 juosta, 60 km/h; darbai planuoti iki spalio pabaigos.",
+    "JK užsienio reikalų ministerija įspėja apie kišenvagius turistinėse vietose, minioje ir stotyse."
+   ],
+   "tips": [
+    "10-30 Varšuvą stenkitės pravažiuoti iki popietės piko; eismą tikrinkite Google Maps ar Yanosik.",
+    "11-08 (sekm.) didžiosios parduotuvės uždarytos – užkandžių nusipirkite iš anksto; degalinės ir vaistinės dirba.",
+    "Sustoję nepalikite daiktų matomoje automobilio vietoje."
+   ],
+   "sources": [
+    "https://www.auto-swiat.pl/wiadomosci/aktualnosci/ruszyla-wielka-akcja-policji-w-calym-kraju-kierowcy-pod-lupa/2lx276x",
+    "https://www.gov.pl/web/gddkia/wyjazdy-w-okresie-wszystkich-swietych-bezpieczenstwo-przede-wszystkim",
+    "https://www.raportwarszawski.pl/artykul/5296,nocne-utrudnienia-na-s8-drogowcy-przenosza-sie-w-rejon-broniewskiego",
+    "https://tvn24.pl/tvnwarszawa/targowek/warszawa-remont-fragmentu-trasy-s8-szczegoly-utrudnienia-st8997850",
+    "https://www.gov.uk/foreign-travel-advice/poland/safety-and-security",
+    "https://www.wiadomoscihandlowe.pl/handel-i-dystrybucja/niedziele-handlowe-w-2026-r-w-ktore-niedziele-sklepy-beda-otwarte-2531162"
+   ]
+  },
+  {
+   "id": "czestochowa",
+   "name": "Čenstakava",
+   "country": "PL",
+   "days": [
+    9,
+    10
+   ],
+   "level": 1,
+   "reasons": [
+    "Žinomų sutrikimų nėra; Jasna Góros svetainėje renginių 11-07–08 nepaskelbta.",
+    "11-08 – sekmadienio prekybos draudimas: didžiosios parduotuvės uždarytos (degalinės, vaistinės dirba)."
+   ],
+   "tips": [
+    "Apel Jasnogórski vyksta kasdien 21:00 – atvykite anksčiau, kad rastumėte vietą koplyčioje.",
+    "Minioje piniginę ir telefoną laikykite vidinėje kišenėje.",
+    "Maisto ir vandens kelionei 11-08 nusipirkite dar šeštadienį."
+   ],
+   "sources": [
+    "https://news.jasnagora.pl/plan-dnia/",
+    "https://jasnagora.pl/",
+    "https://www.wiadomoscihandlowe.pl/handel-i-dystrybucja/niedziele-handlowe-w-2026-r-w-ktore-niedziele-sklepy-beda-otwarte-2531162",
+    "https://www.gov.uk/foreign-travel-advice/poland/safety-and-security"
+   ]
+  },
+  {
+   "id": "lomza",
+   "name": "Lomža",
+   "country": "PL",
+   "days": [
+    10
+   ],
+   "level": 1,
+   "reasons": [
+    "Žinomų sutrikimų nėra; nuo 2024 m. rudens S61 (Via Baltica) pravažiuojama visa iki Budzisko.",
+    "11-08 sekmadienį didžiosios parduotuvės uždarytos (prekybos draudimas); degalinės dirba."
+   ],
+   "tips": [
+    "Pertraukai rinkitės degalines ar poilsio aikšteles prie S61 – sekmadienį jos dirba.",
+    "Iki Telšių dar ilgas kelias – suplanuokite poilsio sustojimą Suvalkuose ar Kaune."
+   ],
+   "sources": [
+    "https://tvn24.pl/biznes/moto/s61-obwodnica-lomzy-via-baltica-odcinek-oddany-do-uzytku-st8114003",
+    "https://www.wiadomoscihandlowe.pl/handel-i-dystrybucja/niedziele-handlowe-w-2026-r-w-ktore-niedziele-sklepy-beda-otwarte-2531162"
+   ]
+  },
+  {
+   "id": "braunschweig-peine",
+   "name": "Peinė / Braunšveigas",
+   "country": "DE",
+   "days": [
+    1,
+    2
+   ],
+   "level": 1,
+   "reasons": [
+    "Žinomų sutrikimų, demonstracijų ar įspėjimų Peinei ir Braunšveigui 30–31.10 nerasta.",
+    "Šeštadienis 31.10 – Reformacijos diena, Žemutinės Saksonijos šventė: parduotuvės bus uždarytos."
+   ],
+   "tips": [
+    "Užkandžiais pasirūpinkite iš anksto: 31.10 Žemutinėje Saksonijoje parduotuvės nedirbs, ŠRV – dirbs įprastai.",
+    "Nakvynės aikštelėje automobilyje nepalikite nieko matomoje vietoje."
+   ],
+   "sources": [
+    "https://www.stuttgarter-zeitung.de/wissen/wo-ist-der-31-10-ein-feiertag-mhsd-79050759.html"
+   ]
+  },
+  {
+   "id": "koln",
+   "name": "Kelnas",
+   "country": "DE",
+   "days": [
+    2
+   ],
+   "level": 2,
+   "reasons": [
+    "Trankgasse (tarp Domo ir stoties) – 2025 m. vieta su daugiausia kišenvagysčių visoje ŠRV.",
+    "2026 m. rugsėjį federalinė policija Kelno stotyje ir Deutz sulaikė vagis, apvaginėjusius keleivius.",
+    "Galioja Umweltzone: įvažiuoti tik su žaliu lipduku, bauda 100 €, išimčių turistams nėra."
+   ],
+   "tips": [
+    "Telefoną ir piniginę laikykite užsegtoje vidinėje kišenėje, ypač minioje prie Domo ir stotyje.",
+    "Domo bilietą (12 €) pirkite iš anksto tickets.koelner-dom.de; I–VI lankymas 10:00–17:45.",
+    "Automobilyje nieko nepalikite matomoje vietoje; rinkitės prižiūrimą požeminę aikštelę."
+   ],
+   "sources": [
+    "https://www.radioerft.de/artikel/koeln-bleibt-hochburg-fuer-taschendiebstaehle-2618944",
+    "https://www.news.de/lokales/859989974/blaulicht-news-polizei-einsatz-koeln-14-09-26-diebstahl-heute/1/",
+    "https://www.stadt-koeln.de/artikel/68621/index.html",
+    "https://www.koelner-dom.de/besuchen/oeffnungszeiten",
+    "https://www.zdfheute.de/panorama/koelner-dom-eintritt-zwoelf-euro-100.html"
+   ]
+  },
+  {
+   "id": "aachen",
+   "name": "Achenas",
+   "country": "DE",
+   "days": [
+    2,
+    3
+   ],
+   "level": 1,
+   "reasons": [
+    "Žinomų sutrikimų, demonstracijų ar įspėjimų Achenui 31.10–1.11 nerasta.",
+    "Galioja Umweltzone (Außenring viduje): būtinas žalias lipdukas, taikoma ir užsienio automobiliams."
+   ],
+   "tips": [
+    "Jei neturite žalio lipduko – užsisakykite jį internetu jau dabar (pvz., TÜV, DEKRA); tinka ir Kelnui.",
+    "Termose vertybes laikykite rakinamoje spintelėje, automobilyje – nieko matomoje vietoje."
+   ],
+   "sources": [
+    "https://www.aachen.de/:translation/en/stadt-aachen/de/in-aachen-leben/klima-umwelt/luftqualitaet/umweltzone/",
+    "https://www.umwelt.nrw.de/themen/umwelt/umwelt-und-gesundheit/luft/umweltzonen"
+   ]
+  },
+  {
+   "id": "belgium-transit",
+   "name": "Belgija (Lježas, Briuselio žiedas, Turnė)",
+   "country": "BE",
+   "days": [
+    3
+   ],
+   "level": 2,
+   "reasons": [
+    "Lapkr. 1 d. streikų ar demonstracijų nepaskelbta; visuotinis streikas svarstomas tik lapkr. 23 d. savaitę",
+    "E42 ties Grâce-Hollogne (Lježo oro uostas) – tilto remontas: 3 juostos, 50 km/h (1-asis etapas iki metų pabaigos)",
+    "E42 tarp Namiūro (12) ir Spy (13) iki lapkr. vidurio: link Monso 50 km/h, viena juosta perkelta į kitą pusę",
+    "Vagys (dažnai motociklais) kartais išdaužia prie šviesoforo stovinčio automobilio langą ir griebia daiktus (FCDO)"
+   ],
+   "tips": [
+    "Daiktų nepalikite matomoje vietoje; mieste važiuokite užrakintomis durimis",
+    "Briuselio LEZ – visas regionas, išskyrus R0 žiedą: dyzeliniai Euro 5 ir senesni draudžiami, bauda 350 €",
+    "Eismą tikrinkite trafiroutes.wallonie.be ir verkeerscentrum.be"
+   ],
+   "sources": [
+    "https://www.vrt.be/vrtnws/fr/2026/09/08/la-fgtb-et-la-csc-manifesteront-le-9-octobre-a-bruxelles-un-pr/",
+    "https://bruxellesdevie.com/2026/10/06/retour-des-greves-et-manifestation-nationale-en-octobre/",
+    "https://sofico.org/app/uploads/2026/08/260821-sofico-chantiers-rentree-2026-cp.pdf",
+    "https://www.info-lux.com/chantiers-rentree-2026-autoroutes-nationales-wallonie/themes/maison-themes/travaux/",
+    "https://www.lavenir.net/regions/namur/la-bruyere/2026/09/29/travaux-jusqua-la-mi-novembre-sur-lautoroute-e42-quatre-kilometres-de-revetement-vont-etre-renoves-entre-rhisnes-et-spy-72AJG3UGHBHNNPGSXWZ3Q4BEV4/",
+    "https://www.gov.uk/foreign-travel-advice/belgium/safety-and-security",
+    "https://lez.brussels/mytax/fr/"
+   ]
+  },
+  {
+   "id": "honfleur",
+   "name": "Onflioras",
+   "country": "FR",
+   "days": [
+    3
+   ],
+   "level": 1,
+   "reasons": [
+    "Žinomų sutrikimų lapkričio 1 d. nepaskelbta",
+    "Lapkr. 1 d. – Visų Šventųjų diena ir paskutinė mokinių atostogų diena: tikėtina daug lankytojų"
+   ],
+   "tips": [
+    "Atvykite anksčiau – šventadienį aikštelės prie senojo uosto gali greitai užsipildyti",
+    "Vertingų daiktų nepalikite automobilyje matomoje vietoje",
+    "Iš A29 pusės vedantis Normandijos tiltas (Pont de Normandie) mokamas: lengvajam 6,10 €, kortele ar grynais"
+   ],
+   "sources": [
+    "https://www.service-public.gouv.fr/particuliers/actualites/A18563",
+    "https://vacances-scolaires.com/actualites/2026/09/16/1er-novembre-2026-la-toussaint-tombe-un-dimanche-un-week-end-de-quatre-jours-en-perspective/",
+    "https://www.gov.uk/foreign-travel-advice/france/safety-and-security",
+    "https://www.pontsnormandietancarville.fr/les-tarifs/"
+   ]
+  },
+  {
+   "id": "lisieux",
+   "name": "Lisieux",
+   "country": "FR",
+   "days": [
+    3
+   ],
+   "level": 1,
+   "reasons": [
+    "Žinomų sutrikimų nėra",
+    "Lapkr. 1 d. šventovėje – Visų Šventųjų iškilmė, tikėtina daugiau maldininkų"
+   ],
+   "tips": [
+    "Pamaldų laiką patikrinkite therese-de-lisieux.catholique.fr – iškilmės dieną jis gali keistis",
+    "Iš Lisieux į Ruaną A13 – mokestis be užtvarų, sumokėkite sanef.com per 72 val."
+   ],
+   "sources": [
+    "https://www.therese-de-lisieux.catholique.fr/",
+    "https://www.service-public.gouv.fr/particuliers/actualites/A18563",
+    "https://fr.wikipedia.org/wiki/Autoroute_A13_(France)",
+    "https://www.autoroutes.sanef.com/fr/flux-libre/voyage-paris-normandie-a13"
+   ]
+  },
+  {
+   "id": "rouen",
+   "name": "Ruanas",
+   "country": "FR",
+   "days": [
+    3,
+    4,
+    5
+   ],
+   "level": 2,
+   "reasons": [
+    "ZFE: 13 komunų zonoje visą parą draudžiami Crit'Air 4, 5 ir neklasifikuoti automobiliai",
+    "Spalio 8 d. ~4 000 moksleivių, studentų ir profsąjungų taikiai žygiavo; žada tęsti, lapkr. 1–3 d. akcijų nepaskelbta",
+    "Prie lankytinų vietų ir bankomatų būkite atidūs – kišenvagiai naudojasi išsiblaškymu (FCDO)"
+   ],
+   "tips": [
+    "Crit'Air vinjetę užsisakykite iš anksto tik oficialioje certificat-air.gouv.fr",
+    "Automobilį nakčiai palikite uždaroje viešbučio ar požeminėje aikštelėje",
+    "Pamatę eitynes ar policijos užtvaras, apeikite jas – centre gali būti keičiamas eismas"
+   ],
+   "sources": [
+    "https://metropole-rouen-normandie.fr/print-node/10798",
+    "https://www.certificat-air.gouv.fr/",
+    "https://france3-regions.franceinfo.fr/normandie/seine-maritime/rouen/on-ira-jusqu-au-bout-lyceens-etudiants-et-syndicats-defilent-a-rouen-lors-d-une-manifestation-sans-heurts-3430251.html",
+    "https://www.gov.uk/foreign-travel-advice/france/safety-and-security"
+   ]
+  },
+  {
+   "id": "etretat",
+   "name": "Etreta",
+   "country": "FR",
+   "days": [
+    4
+   ],
+   "level": 2,
+   "reasons": [
+    "Uolos nuolat byra: nuo krašto laikykitės bent 5 m; į „Trou à l'Homme“ olą ir tunelius eiti griežtai draudžiama",
+    "Stovėjimas mokamas visus metus, kasdien 9–19 val. (centre – 3 € už valandą)",
+    "Lapkričio 2 d. žinomų sutrikimų nepaskelbta"
+   ],
+   "tips": [
+    "Laikykitės pažymėtų takų ir nesiartinkite prie uolų krašto, ypač vėjuotą ar lietingą dieną",
+    "Statykite oficialiose aikštelėse arba laikinose Bénouville; nestatykite prie Criquetot kelio",
+    "Vertingų daiktų nepalikite automobilyje matomoje vietoje"
+   ],
+   "sources": [
+    "https://lehavre-etretat-tourisme.com/en/practical-information/parking-and-getting-around-in-etretat"
+   ]
+  },
+  {
+   "id": "chartres",
+   "name": "Šartras",
+   "country": "FR",
+   "days": [
+    5
+   ],
+   "level": 1,
+   "reasons": [
+    "Streikų, uždarymų ar oficialių įspėjimų XI-3 (antradienį) nepaskelbta.",
+    "Bendras patarimas: prie lankomų vietų ir bankomatų būkite atidūs (GOV.UK).",
+    "X-9 duomenimis Centro–Luaros slėnio regione 10 % degalinių trūko benzino arba dyzelino."
+   ],
+   "tips": [
+    "Automobilyje nieko nepalikite matomoje vietoje – dokumentus ir rankinę pasiimkite su savimi.",
+    "Degalų prisipilkite iš anksto; prieinamumą tikrinkite prix-carburants.gouv.fr."
+   ],
+   "sources": [
+    "https://www.cestlagreve.fr/",
+    "https://www.gov.uk/foreign-travel-advice/france/safety-and-security",
+    "https://www.prix-carburants.gouv.fr/disponibilites-carburants"
+   ]
+  },
+  {
+   "id": "reims",
+   "name": "Reimsas",
+   "country": "FR",
+   "days": [
+    5,
+    6,
+    7
+   ],
+   "level": 3,
+   "reasons": [
+    "XI-5 (išvykimo rytą) – nacionalinis streikas ir demonstracijos; Reimso eitynių maršrutas dar nepaskelbtas.",
+    "Kaip daugelyje didmiesčių, vagysčių be smurto ir iš automobilių – virš šalies vidurkio (SSMSI 2025).",
+    "ZFE (centras ir dalis A344): Crit'Air 4, 5 ir be klasės draudžiami; lipdukas privalomas ir užsienio automobiliams.",
+    "A344 nuovaža nuo Tinqueux į Avenue de Champagne ir užvažiavimas iš jos uždaryti iki XII-31 (darbai)."
+   ],
+   "tips": [
+    "Crit'Air lipduką užsisakykite jau dabar tik oficialioje certificat-air.gouv.fr – jis siunčiamas paštu.",
+    "Statykite prižiūrimoje aikštelėje, ne nuošalioje ar tamsioje vietoje; salone nieko nepalikite.",
+    "XI-5 išvykite anksti ryte pilnu baku, miesto centro ir eitynių venkite."
+   ],
+   "sources": [
+    "https://www.cgt.fr/comm-de-presse/appel-la-mobilisation-pour-les-salaires-les-services-publics-lemploi-et-lindustrie",
+    "https://www.cestlagreve.fr/greve/greve-generale-5-novembre-2026/",
+    "https://habity.fr/ville/reims-51/securite",
+    "https://www.ecologie.gouv.fr/politiques-publiques/zones-faibles-emissions-zfe",
+    "https://lesvoitures.fr/adresse/reims-zfe/",
+    "https://leocare.eu/fr/assurance-auto-en-ligne/conseils/zfe/reims/",
+    "https://www.service-public.gouv.fr/particuliers/vosdroits/F33371?lang=fr",
+    "https://www.bison-fute.gouv.fr/imprimer,article11746.html",
+    "https://www.gov.uk/foreign-travel-advice/france/safety-and-security"
+   ]
+  },
+  {
+   "id": "epernay-hautvillers",
+   "name": "Epernė ir Otvilė",
+   "country": "FR",
+   "days": [
+    6
+   ],
+   "level": 1,
+   "reasons": [
+    "Streikų, uždarymų ar oficialių įspėjimų XI-4 (trečiadienį) nepaskelbta.",
+    "Įprasta rizika: prie lankomų vietų automobilyje nepalikite vertingų daiktų."
+   ],
+   "tips": [
+    "Degustacijose vairuotojas negeria – Prancūzijoje leistina riba 0,5 ‰.",
+    "Degalų prisipilkite Reimse – X-9 Grand Est regione 15 % degalinių trūko benzino arba dyzelino."
+   ],
+   "sources": [
+    "https://www.cestlagreve.fr/",
+    "https://www.gov.uk/foreign-travel-advice/france/safety-and-security",
+    "https://www.prix-carburants.gouv.fr/disponibilites-carburants"
+   ]
+  },
+  {
+   "id": "verdun-metz",
+   "name": "Verdenas ir Mecas",
+   "country": "FR",
+   "days": [
+    7
+   ],
+   "level": 3,
+   "reasons": [
+    "Lapkričio 5 d. – nacionalinis streikas ir demonstracijos (CGT, CFDT, FO, UNSA, FSU).",
+    "Vietinės eitynės ir jų maršrutai (taip pat Mece) dar nepaskelbti – juos skelbs profsąjungos ir prefektūra.",
+    "Moselle: per 10 d. iki 10-09 23 iš 154 degalinių (14,9 %) trūko bent vienos rūšies degalų, dažniausiai SP98."
+   ],
+   "tips": [
+    "Lapkričio 5 d. Meco centrą aplenkite greitkeliais A4/A31, demonstracijų vengite.",
+    "Degalų baką pripildykite dar Reimse; prieinamumą tikrinkite prix-carburants.gouv.fr."
+   ],
+   "sources": [
+    "https://www.24matins.fr/greve-du-5-novembre-ce-que-prepare-deja-lintersyndicale-1421874",
+    "https://cestlagreve.fr/greve/greve-generale-5-novembre-2026",
+    "https://prix-carburant.eu/ruptures/departement-57",
+    "https://www.prix-carburants.gouv.fr/disponibilites-carburants"
+   ]
+  },
+  {
+   "id": "vosges",
+   "name": "Vogėzų perėjos",
+   "country": "FR",
+   "days": [
+    7
+   ],
+   "level": 2,
+   "reasons": [
+    "Nuo 11-01 iki 03-31 Vogėzų kalnų komunose privaloma žieminė įranga (3PMSF padangos arba grandinės/„kojinės“).",
+    "Col du Bonhomme – 949 m aukštyje; oficialių orų perspėjimų lapkričio 5 d. kol kas nėra.",
+    "Vosges: per 10 d. iki 10-09 ~16 % degalinių trūko bent vienos rūšies degalų (tarp jų Total Saint-Dié)."
+   ],
+   "tips": [
+    "Grandines ar sniego „kojines“ įsigykite iš anksto – vien M+S padangos nebetinka, bauda 135 €.",
+    "Prieš perėją pasitikrinkite vigilance.meteofrance.fr ir inforoute.alsace.eu."
+   ],
+   "sources": [
+    "https://www.allopneus.com/guide-pratique/auto/conseils-pneu/loi-montagne-vosges",
+    "https://www.camping-car.com/reglementation/30987-equipements-hiver-obligatoires-que-dit-la-loi-montagne-2025-2026",
+    "https://en.wikipedia.org/wiki/Col_du_Bonhomme",
+    "https://prix-carburant.eu/ruptures/departement-88",
+    "https://inforoute.alsace.eu"
+   ]
+  },
+  {
+   "id": "colmar",
+   "name": "Kolmaras",
+   "country": "FR",
+   "days": [
+    7,
+    8
+   ],
+   "level": 3,
+   "reasons": [
+    "Lapkričio 5 d. (atvykimo diena) – nacionalinis streikas ir demonstracijos visoje Prancūzijoje.",
+    "Haut-Rhin: per 10 d. iki 10-09 33 iš 123 degalinių (27 %) trūko degalų, dažniausiai dyzelino.",
+    "Kalėdų mugės prasideda tik 11-23, didelių minių nebus; Mažojoje Venecijoje – įprasta kišenvagių rizika."
+   ],
+   "tips": [
+    "Atvykite su pilnu baku; degalų prieinamumą tikrinkite prix-carburants.gouv.fr.",
+    "Automobilį palikite oficialioje aikštelėje miesto pakraštyje, daiktų salone nepalikite.",
+    "Lapkričio 5 d. venkite demonstracijų vietų miesto centre."
+   ],
+   "sources": [
+    "https://www.24matins.fr/greve-du-5-novembre-ce-que-prepare-deja-lintersyndicale-1421874",
+    "https://prix-carburant.eu/ruptures/departement-68",
+    "https://www.noel-colmar.com/",
+    "https://eurocityguide.com/france/is-colmar-safe-for-tourists",
+    "https://www.gov.uk/foreign-travel-advice/france/safety-and-security"
+   ]
+  },
+  {
+   "id": "eguisheim",
+   "name": "Egishaimas",
+   "country": "FR",
+   "days": [
+    8
+   ],
+   "level": 2,
+   "reasons": [
+    "Lapkričio 6 d. paskelbtų renginių ar eismo apribojimų nerasta; Kalėdų mugė prasideda tik 11-27.",
+    "Haut-Rhin tebėra degalų trūkumų (10-09 duomenimis – 27 % degalinių per pastarąsias 10 d.)."
+   ],
+   "tips": [
+    "Prieš ilgą atkarpą į Bambergą turėkite bent ketvirtį bako atsargą.",
+    "Vertingų daiktų nepalikite matomoje automobilio vietoje kaimo aikštelėje."
+   ],
+   "sources": [
+    "https://prix-carburant.eu/ruptures/departement-68",
+    "https://www.prix-carburants.gouv.fr/disponibilites-carburants",
+    "https://www.noel-colmar.com/",
+    "https://www.gov.uk/foreign-travel-advice/france/safety-and-security"
+   ]
+  },
+  {
+   "id": "wurzburg",
+   "name": "Viurcburgas",
+   "country": "DE",
+   "days": [
+    8
+   ],
+   "level": 1,
+   "reasons": [
+    "Bavarijos vidaus reikalų ministerija (2025-05): saugumas Viurcburge aukštas, palyginti su kitais Bavarijos didmiesčiais",
+    "Stoties aplinką ir Ringparką policija nuolat vertina; stoties aikštėje ir Barbarossaplatz veikia vaizdo kameros",
+    "Patikrinus 10-09: streikų, demonstracijų ar uždarymų 11-06 nerasta"
+   ],
+   "tips": [
+    "Vakare stoties ir Ringparko apylinkėse rinkitės apšviestas, judrias gatves",
+    "Automobilį palikite uždaroje aikštelėje, daiktų nepalikite matomoje salono vietoje"
+   ],
+   "sources": [
+    "https://www.bayern.landtag.de/www/ElanTextAblage_WP19/Drucksachen/Schriftliche%20Anfragen/19_0006673.pdf"
+   ]
+  },
+  {
+   "id": "bamberg",
+   "name": "Bambergas",
+   "country": "DE",
+   "days": [
+    8,
+    9
+   ],
+   "level": 1,
+   "reasons": [
+    "Patikrinus 10-09: streikų, demonstracijų ar uždarymų 11-06–07 nerasta",
+    "Ilgalaikiai darbai – už miesto, A70 ties Hallstadtu (žr. kelią A73 / A70)"
+   ],
+   "tips": [
+    "Senamiesčio gatvės siauros – palikite automobilį daugiaaukštėje aikštelėje ir eikite pėsčiomis",
+    "11-07 rytą prieš išvykdami patikrinkite A70 būklę autobahn.de"
+   ],
+   "sources": [
+    "https://www.infranken.de/lk/bamberg/a70-bei-bamberg-bauarbeiten-sorgen-fuer-naechste-vollsperrung-art-6384508",
+    "https://www.infranken.de/lk/bamberg/a70-bei-hallstadt-hier-kommt-es-zu-monatelangen-sperrungen-art-6365215,PRINT",
+    "https://verkehr.autobahn.de/o/autobahn/A70/services/roadworks"
+   ]
+  },
+  {
+   "id": "bautzen",
+   "name": "Budyšinas",
+   "country": "DE",
+   "days": [
+    9
+   ],
+   "level": 1,
+   "reasons": [
+    "Bautzeno apskrities nusikalstamumo rodiklis 2025 m. žemesnis už Saksonijos vidurkį (4462 ir 6373 / 100 tūkst.)",
+    "Patikrinus 10-09: streikų, demonstracijų ar uždarymų 11-07 nerasta"
+   ],
+   "tips": [
+    "Organizatoriaus svetainės antraštėje turgus nurodytas 11-07, 9–15 val., Wilthener Str., bet sąraše jo dar nėra",
+    "Prieš važiuodami pasitikrinkite oberlausitzer-troedelmarkt.de ar tel. 03591 30 43 54; piniginę laikykite užsegtą"
+   ],
+   "sources": [
+    "https://medienservice.sachsen.de/medien/news/1096082/download_pdf",
+    "https://www.oberlausitzer-troedelmarkt.de/"
+   ]
+  },
+  {
+   "id": "gorlitz-zgorzelec",
+   "name": "Gerlicas / Zgoželecas",
+   "country": "DE/PL",
+   "days": [
+    9
+   ],
+   "level": 2,
+   "reasons": [
+    "Lenkija iki 2027-03-30 atsitiktinai tikrina atvykstančius iš Vokietijos (~50 vietų pasienyje)",
+    "Gerlico mieste 2025 m. – didžiausias turtinių nusikaltimų rodiklis policijos direkcijos zonoje (nors mažėja)",
+    "Automobilių vagysčių mažėja: 2025 m. 280 (−21,6 %) Bautzeno ir Görlitzo apskrityse"
+   ],
+   "tips": [
+    "Pasus ar ID korteles laikykite po ranka – pasieniečiai gali sustabdyti atsitiktinai",
+    "Statykite apšviestoje, prižiūrimoje aikštelėje; nieko nepalikite matomoje salono vietoje",
+    "ADAC: dėl Lenkijos patikrų spūsčių būna ties A4 Ludwigsdorf – važiuodami į Lenkiją skirkite papildomo laiko"
+   ],
+   "sources": [
+    "https://superbiz.se.pl/wiadomosci/rzad-zdecydowal-kontrole-na-granicach-zostaja-do-konca-marca-2027-r-aa-QWCF-RHdx-oAmV.html",
+    "https://medienservice.sachsen.de/medien/news/1096082/download_pdf",
+    "https://www.adac.de/news/deutschland-grenzkontrollen/"
+   ]
+  }
+ ],
+ "roads": [
+  {
+   "id": "lt-a5-s61",
+   "name": "Via Baltica (A5 / S61)",
+   "country": "LT/PL",
+   "days": [
+    1,
+    10
+   ],
+   "level": 2,
+   "reasons": [
+    "A5 Garliava–Mauručiai (6,9 km) rekonstrukcija nuo 2026 m. II ketv. iki 2027 m. pab.; dabar 90 km/h, galimi ribojimai.",
+    "Lenkija atrankiai tikrina atvykstančius iš Lietuvos (13 vietų) – kontrolė pratęsta iki 2027-03-30.",
+    "2025 m. patikroje ties Budzisko kelias siaurėjo iki 1 juostos, automobiliai nukreipti į aikštelę.",
+    "10-30 – Visų šventųjų savaitgalio išvakarės Lenkijoje: tikėtinas didesnis eismas ir policijos patikros."
+   ],
+   "tips": [
+    "Pasus ar ID korteles ir automobilio dokumentus laikykite po ranka – jų gali paklausti pasienyje.",
+    "Prieš išvykdami pažiūrėkite eismoinfo.lt – ten skelbiami A5 darbų ribojimai."
+   ],
+   "sources": [
+    "https://www.lrt.lt/naujienos/eismas/7/2957123/pradedamas-via-baltica-ruozo-nuo-garliavos-iki-mauruciu-rekonstravimas",
+    "https://vialietuva.lt/projektai/via-baltica-a5-kaunas-marijampole-suvalkai-ruozo-nuo-16465-iki-2332-km-rekonstravimas",
+    "https://wiadomosci.wp.pl/kontrole-na-granicach-z-niemcami-i-litwa-przedluzone-7335592259766592a",
+    "https://www.baltictimes.com/travelers_face_checks_on_lithuanian-polish_border_as_warsaw_re-introduces_border_controls/",
+    "https://www.auto-swiat.pl/wiadomosci/aktualnosci/ruszyla-wielka-akcja-policji-w-calym-kraju-kierowcy-pod-lupa/2lx276x"
+   ]
+  },
+  {
+   "id": "pl-s8",
+   "name": "S8 Varšuvos apvažiavimas",
+   "country": "PL",
+   "days": [
+    1,
+    10
+   ],
+   "level": 2,
+   "reasons": [
+    "Varšuvos S8 ruože naktimis (20–5 val.) uždaromos 2 iš 3 juostų, 60 km/h; darbai planuoti iki spalio pabaigos.",
+    "10-30 popietę – išvykimas į Visų šventųjų savaitgalį: tikėtinos spūstys ir dažnesnės policijos patikros."
+   ],
+   "tips": [
+    "Varšuvą pravažiuokite dieną – dieną visos juostos atviros; naktiniai darbai gali užsitęsti dėl orų.",
+    "GDDKiA eismo informacijos linija: tel. 19 111 (visą parą)."
+   ],
+   "sources": [
+    "https://www.raportwarszawski.pl/artykul/5296,nocne-utrudnienia-na-s8-drogowcy-przenosza-sie-w-rejon-broniewskiego",
+    "https://tvn24.pl/tvnwarszawa/targowek/warszawa-remont-fragmentu-trasy-s8-szczegoly-utrudnienia-st8997850",
+    "https://www.auto-swiat.pl/wiadomosci/aktualnosci/ruszyla-wielka-akcja-policji-w-calym-kraju-kierowcy-pod-lupa/2lx276x",
+    "https://www.gov.pl/web/gddkia/wyjazdy-w-okresie-wszystkich-swietych-bezpieczenstwo-przede-wszystkim"
+   ]
+  },
+  {
+   "id": "pl-a2",
+   "name": "A2 Varšuva–Svieckas",
+   "country": "PL",
+   "days": [
+    1
+   ],
+   "level": 2,
+   "reasons": [
+    "Łódź–Konotopa (~90 km) plėtra: pagrindiniai darbai nuo rudens, 70 km/h, ruožinis greičio matavimas; data nepatvirtinta.",
+    "Vokietija tikrina sieną su Lenkija iki 2027 m. kovo; 2025 m. birželį per ilgąjį savaitgalį eilė prie Svieckos ~20 km.",
+    "2024 m. A2 poilsio aikštelėse (Brzeziny apskr.) vagys atrakindavo automobilius perimdami pultelio signalą; sulaikyti.",
+    "10-30 – Visų šventųjų savaitgalio išvakarės: tikėtinas didelis eismas, akcija „Znicz“ (2026 m. datos neskelbtos)."
+   ],
+   "tips": [
+    "Koninas–Svieckas – mokamas ruožas: grynieji, kortelė arba el. apmokėjimas pagal numerį (videotolling).",
+    "Poilsio aikštelėje užrakinę automobilį patikrinkite rankena; daiktų nepalikite matomoje vietoje.",
+    "Darbų zonoje laikykitės 70 km/h – greitis bus matuojamas ruože, ne viename taške."
+   ],
+   "sources": [
+    "https://warszawawpigulce.pl/po-dwa-nowe-pasy-na-autostradzie-a2-z-lodzi-do-warszawy-od-listopada-drastyczne-zwolnienie-do-70-km-h-i-odcinkowe-pomiary-predkosci/",
+    "https://tulodz.pl/polska-i-swiat/autostrada-a2-nowe-ograniczenie-do-70-kmh-i-odcinkowy-pomiar-predkosci-niedaleko-lowicza/cAab1chLxOxs5Baux42n",
+    "https://www.gov.pl/web/gddkia-lodz/przedostatnia-umowa-na-poszerzenie-a2-podpisana",
+    "https://www.gov.pl/web/infrastruktura/rusza-rozbudowa-a2-miedzy-warszawa-i-lodzia",
+    "https://www.zdfheute.de/politik/deutschland/dobrindt-grenzkontrollen-verlaengert-2027-100.html",
+    "https://www.auto-swiat.pl/wiadomosci/aktualnosci/olbrzymie-korki-na-autostradach-z-polski-do-niemiec-maja-nawet-kilkanascie-kilometrow/q1l2093",
+    "https://www.auto-swiat.pl/wiadomosci/aktualnosci/tylko-zatrzymywali-sie-na-mop-ach-obcokrajowcy-trafili-juz-do-aresztu/rj5hndc",
+    "https://www.autostrada-a2.pl/en/",
+    "https://www.auto-swiat.pl/wiadomosci/aktualnosci/ruszyla-wielka-akcja-policji-w-calym-kraju-kierowcy-pod-lupa/2lx276x"
+   ]
+  },
+  {
+   "id": "pl-a4",
+   "name": "A4 Zgoželecas–Vroclavas–Gliwice",
+   "country": "PL",
+   "days": [
+    9
+   ],
+   "level": 2,
+   "reasons": [
+    "Įvažiuojant iš Vokietijos Lenkija atrankiai tikrina pasienį (50 vietų) – kontrolė pratęsta iki 2027-03-30.",
+    "Legnica–Vroclavas: siauras betoninis ruožas, daug kur be kelkraščio, leidžiama 110 km/h."
+   ],
+   "tips": [
+    "Įvažiuodami į Lenkiją dokumentus turėkite po ranka – gali tekti sustoti patikrai.",
+    "Ruože Legnica–Vroclavas laikykitės 110 km/h – GITD jame neseniai įrengė greičio kameras.",
+    "Laikykitės didesnio atstumo – kelkraščio sustoti dažnai nėra."
+   ],
+   "sources": [
+    "https://wiadomosci.wp.pl/kontrole-na-granicach-z-niemcami-i-litwa-przedluzone-7335592259766592a",
+    "https://motoryzacja.interia.pl/wiadomosci/news-kontrole-graniczne-zostaja-na-dluzej-kierowcy-beda-sprawdzan,nId,23552451",
+    "https://forsal.pl/transport/drogi/artykuly/10616355,wielki-remont-autostrady-a4-dodatkowy-pas-i-ominiecie-wroclawia.html"
+   ]
+  },
+  {
+   "id": "pl-a1",
+   "name": "A1 į Čenstakavą",
+   "country": "PL",
+   "days": [
+    9,
+    10
+   ],
+   "level": 2,
+   "reasons": [
+    "9 d.: Siemonia–Dobieszowice (tarp Gliwice ir Pyrzowice, ~3 km) remontas – po 1 juostą kryptimi, 60 km/h, iki 2027-08."
+   ],
+   "tips": [
+    "Remonto zonoje laikykitės 60 km/h – abi kryptys važiuoja viena važiuojamąja dalimi, juostos po 3,25 m.",
+    "11-08 į Varšuvą įprastas kelias – A1 iki Piotrków Trybunalski ir S8; A2 darbų ruožas lieka nuošalyje."
+   ],
+   "sources": [
+    "https://www.gov.pl/web/gddkia-katowice/rozpoczynamy-remont-a1"
+   ]
+  },
+  {
+   "id": "de-a10-a2",
+   "name": "A10 Berlyno žiedas ir A2",
+   "country": "DE",
+   "days": [
+    1
+   ],
+   "level": 3,
+   "reasons": [
+    "Brandenburgo policija perspėja: A10 ties Michendorf ir A2 ties Buckautal vagys išviliojo vairuotojus iš automobilių.",
+    "A2 aikštelėse Zweidorfer Holz (2026-06) ir Krähenberge (2025-11) naktį vairuotojai išvilioti „dėl gedimo“.",
+    "30.10 baigiasi Brandenburgo, 31.10 – Berlyno rudens atostogos: aplink Berlyną galimas didesnis eismas.",
+    "A2 tarp Alleringersleben ir Bördės (prie Magdeburgo) – 12 km remontas, 100 km/h, siauresnės juostos iki 20.11."
+   ],
+   "tips": [
+    "Sustoję visada užrakinkite automobilį; piniginės ir dokumentų nepalikite ant sėdynės.",
+    "Jei nepažįstamasis rodo „gedimą“ ar nuimtą numerį – neišlipkite, kalbėkite pro langą, skambinkite 110.",
+    "Nakčiai poilsio aikštelėse nesustokite – abu A2 atvejai įvyko naktį."
+   ],
+   "sources": [
+    "https://www.auto-motor-und-sport.de/verkehr/polizei-warnt-vor-trickbetruegern-auf-autobahnen-achtung-so-werden-sie-abgezockt/",
+    "https://polizei.sachsen-anhalt.de/fileadmin/tsa_rssinclude/zentraler-verkehrs-und-autobahndienst-der-pi-magdeburg_10_06_2026_pressemitteilung_laenderuebergreifende-zusammenarbeit-zwischen-den-autobahnpolizeien-magdeburg-und-braunschweig-fuehrt-zum-erfolg.pdf",
+    "https://presse.sachsen-anhalt.de/wp-content/uploads/pdf/zentraler-verkehrs-und-autobahndienst-der-pi-magdeburg_25_11_2025_Pressemitteilung_diebstahl-auf-autobahnparkplatz-taeter-locken-fahrer-aus-dem-fahrzeug.pdf",
+    "https://www.kalenderpedia.de/ferien/herbstferien-2026.html",
+    "https://verkehr.autobahn.de/o/autobahn/A2/services/roadworks"
+   ]
+  },
+  {
+   "id": "de-a1-a3-koln",
+   "name": "A1/A3 aplink Kelną (Leverkuzenas)",
+   "country": "DE",
+   "days": [
+    2
+   ],
+   "level": 2,
+   "reasons": [
+    "Leverkuzeno Reino tiltas (A1): susiaurintos juostos, 80 km/h; darbai tęsis iki 2028 m.",
+    "A1 ties Dortmund/Unna sankryža – 60 km/h ir siauros juostos iki 7.12; Burscheid–Leverkusen 80 km/h.",
+    "31.10 15:30 BayArena: Bayer Leverkusen–Stuttgart – apie rungtynių pradžią ir pabaigą galimos spūstys.",
+    "31.10 – paskutinė ŠRV rudens atostogų diena (17–31.10): galimas didesnis grįžtančiųjų srautas."
+   ],
+   "tips": [
+    "Leverkuzeną stenkitės pravažiuoti iki ~13 val., kol neprasidėjo sirgalių srautas.",
+    "Prieš išvykdami ir kelyje tikrinkite autobahn.de ar ADAC eismo žemėlapį – ruože daug greičio ribojimų."
+   ],
+   "sources": [
+    "https://verkehr.autobahn.de/o/autobahn/A1/services/roadworks",
+    "https://www.hessenschau.de/sport/ergebnisse-tabellen/fussball-1bl100~_matchday-8.html",
+    "https://www.kalenderpedia.de/ferien/herbstferien-2026.html"
+   ]
+  },
+  {
+   "id": "de-a4-aachen",
+   "name": "A4 Kelnas–Achenas",
+   "country": "DE",
+   "days": [
+    2,
+    3
+   ],
+   "level": 2,
+   "reasons": [
+    "A4 Frechen–Kerpen (abiem kryptimis) – 80 km/h iki 2026-11-30.",
+    "A4 nuo Acheno sankryžos link NL – 80 km/h, siauros juostos iki 1.12; A544 į centrą susiaurinta nuo 17.10.",
+    "Naktiniai uždarymai ties Eschweiler baigiasi iki 30.10; A44 link Belgijos darbų nenumatyta."
+   ],
+   "tips": [
+    "Į Acheno centrą ir termas patogiausia A544 (Europaplatz) – kelias atviras, tik siauresnis.",
+    "Achene galioja Umweltzone – be žalio lipduko į centrą nevažiuokite."
+   ],
+   "sources": [
+    "https://verkehr.autobahn.de/o/autobahn/A4/services/roadworks",
+    "https://verkehr.autobahn.de/o/autobahn/A4/services/closure",
+    "https://verkehr.autobahn.de/o/autobahn/A544/services/roadworks",
+    "https://verkehr.autobahn.de/o/autobahn/A44/services/roadworks"
+   ]
+  },
+  {
+   "id": "be-e40-e42",
+   "name": "E40 / E42 Belgijoje",
+   "country": "BE",
+   "days": [
+    3
+   ],
+   "level": 2,
+   "reasons": [
+    "E42 ties Grâce-Hollogne (Lježas) – tilto remontas: 3 juostos, 50 km/h; 1-asis etapas iki 2026 m. pabaigos",
+    "E42 Rhisnes–Spy (Namiūras) iki lapkr. vidurio: link Monso viena juosta 50 km/h, kita perkelta į priešpriešinę pusę",
+    "E42 ties La Louvière – tilto remontas, po 2 juostas kiekviena kryptimi; pabaiga numatyta lapkritį",
+    "Turnė: Froyennes tilto (E42/A8) darbai iki 2026 m. pabaigos – po 2 juostas, įvažiavimas Nr. 34 „Pecq“ uždarytas",
+    "Lapkr. 1 d. streikų ar demonstracijų Belgijoje nepaskelbta"
+   ],
+   "tips": [
+    "Darbų zonose griežtai laikykitės 50–70 km/h ribojimų",
+    "Policija naudoja greičio kameras ir nežymėtus automobilius; baudos gali būti imamos vietoje",
+    "Poilsio aikštelėse automobilį visada užrakinkite, net trumpam išėję"
+   ],
+   "sources": [
+    "https://sofico.org/app/uploads/2026/08/260821-sofico-chantiers-rentree-2026-cp.pdf",
+    "https://www.info-lux.com/chantiers-rentree-2026-autoroutes-nationales-wallonie/themes/maison-themes/travaux/",
+    "https://www.lavenir.net/regions/namur/la-bruyere/2026/09/29/travaux-jusqua-la-mi-novembre-sur-lautoroute-e42-quatre-kilometres-de-revetement-vont-etre-renoves-entre-rhisnes-et-spy-72AJG3UGHBHNNPGSXWZ3Q4BEV4/",
+    "https://sofico.org/fr/chantiers/",
+    "https://www.gov.uk/foreign-travel-advice/belgium/safety-and-security",
+    "https://www.vrt.be/vrtnws/fr/2026/09/08/la-fgtb-et-la-csc-manifesteront-le-9-octobre-a-bruxelles-un-pr/",
+    "https://bruxellesdevie.com/2026/10/06/retour-des-greves-et-manifestation-nationale-en-octobre/"
+   ]
+  },
+  {
+   "id": "fr-a2-a26-a29-a28",
+   "name": "Šiaurės Prancūzijos autostrados (A2, A26, A29, A28)",
+   "country": "FR",
+   "days": [
+    3
+   ],
+   "level": 1,
+   "reasons": [
+    "Lapkričio 1 d. žinomų uždarymų ar akcijų nepaskelbta",
+    "2025 m. tą patį savaitgalį Bison Futé prognozė – žalia visoje šalyje, oranžinė tik Il de Franse",
+    "Bison Futé 2026 m. Visų Šventųjų savaitgalio prognozę skelbs tik likus kelioms dienoms",
+    "Spalio 8 d. 24 val. TotalEnergies streikas uždarė 23–29 autostradų degalinių; tęsinys nepaskelbtas"
+   ],
+   "tips": [
+    "Kurą pasipildykite iš anksto, nelaukite, kol bakas beveik tuščias",
+    "Prieš išvykdami pažiūrėkite bison-fute.gouv.fr prognozę lapkričio 1 d."
+   ],
+   "sources": [
+    "https://www.bison-fute.gouv.fr/previsions-detaillees,10740.html",
+    "https://www.ecologie.gouv.fr/presse/bison-fute-previsions-nationales-circulation-troisieme-week-end-vacances-dautomne-du",
+    "https://www.france24.com/fr/info-en-continu/20261008-gr%C3%A8ve-totalenergies-les-exp%C3%A9ditions-de-carburants-bloqu%C3%A9es-dans-plusieurs-raffineries-selon-la-cgt"
+   ]
+  },
+  {
+   "id": "fr-a13",
+   "name": "A13 / A28 aplink Ruaną",
+   "country": "FR",
+   "days": [
+    3,
+    5
+   ],
+   "level": 1,
+   "reasons": [
+    "A13 – mokestis be užtvarų (flux libre): be abonemento sumokėti reikia internetu per 72 val., kitaip – sankcijos",
+    "2025 m. paskutinį atostogų sekmadienį Bison Futé A13 spūstis po pietų prognozavo tik Il de Franse (prie Paryžiaus)"
+   ],
+   "tips": [
+    "Sumokėkite sanef.com pagal valstybinį numerį per 72 val. po važiavimo",
+    "Sekmadienio popietę A13 kelionę planuokite su laiko atsarga",
+    "Į Ruano ZFE (13 komunų) važiuokite tik su priklijuota Crit'Air vinjete"
+   ],
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Autoroute_A13_(France)",
+    "https://fr.wikipedia.org/wiki/P%C3%A9age_en_flux_libre",
+    "https://www.autoroutes.sanef.com/fr/flux-libre/voyage-paris-normandie-a13",
+    "https://www.ecologie.gouv.fr/presse/bison-fute-previsions-nationales-circulation-troisieme-week-end-vacances-dautomne-du",
+    "https://www.service-public.gouv.fr/particuliers/actualites/A18563",
+    "https://metropole-rouen-normandie.fr/print-node/10798"
+   ]
+  },
+  {
+   "id": "fr-paris-ring",
+   "name": "Paryžiaus apvažiavimas (A104 / N104 / A86)",
+   "country": "FR",
+   "days": [
+    5
+   ],
+   "level": 2,
+   "reasons": [
+    "XI-3 – antra darbo diena po Visų Šventųjų mokinių atostogų (pamokos nuo XI-2): Il de Franse dažnos piko spūstys.",
+    "DiRIF: N104 darbų nepaskelbta; A86 La Courneuve tunelis iki metų pabaigos uždaromas tik naktimis.",
+    "Didžiojo Paryžiaus ZFE (A86 viduje) 2026 m. veikia be baudų – pratęstas pedagoginis etapas."
+   ],
+   "tips": [
+    "Rinkitės N104 (Francilienne) – ji toli už ZFE ribų; spūstis tikrinkite sytadin.fr.",
+    "Spūstyje laikykite duris užrakintas, rankinę ir telefoną – ne ant priekinės sėdynės.",
+    "Iš Šartro išvažiuokite po 9.30 val., kad aplenktumėte rytinį piką."
+   ],
+   "sources": [
+    "https://vacances-scolaires.education/",
+    "https://www.sortiraparis.com/en/news/in-paris/articles/333330-heavy-traffic-in-ile-de-france-400-km-of-traffic-jams-on-thursday",
+    "https://www.dir.ile-de-france.developpement-durable.gouv.fr/",
+    "https://journalauto.com/services/zfe-statu-quo-pour-la-metropole-du-grand-paris-en-2026/",
+    "https://www.gov.uk/foreign-travel-advice/france/safety-and-security"
+   ]
+  },
+  {
+   "id": "fr-a4-reims",
+   "name": "A4 Paryžius–Reimsas–Mecas",
+   "country": "FR",
+   "days": [
+    5,
+    7
+   ],
+   "level": 3,
+   "reasons": [
+    "XI-5 nacionalinis streikas ir eitynės: prie miestų galimi lėtinimai ir spūstys (detalės nepaskelbtos).",
+    "X-9 Grand Est regione 15 % degalinių trūko benzino arba dyzelino; daugiausia Elzase ir Mozelyje.",
+    "X-8 CGT: TotalEnergies streikas blokavo degalų išvežimą iš 3 gamyklų; įmonė teigia tiekimą tęsianti.",
+    "Ilgalaikių A4 Paryžius–Reimsas–Mecas darbų XI-3–XI-5 Bison Futé (Sanef) sąraše nėra."
+   ],
+   "tips": [
+    "XI-4 vakare Reimse pripilkite pilną baką, kad XI-5 rytą nereikėtų stoti degalinėje.",
+    "XI-5 prieš išvykstant patikrinkite bison-fute.gouv.fr; kelyje klausykite 107.7 FM.",
+    "Į Reimsą A344 nuo Tinqueux: nuovaža į Avenue de Champagne uždaryta – rinkitės Reims-Cathédrale."
+   ],
+   "sources": [
+    "https://www.cgt.fr/comm-de-presse/appel-la-mobilisation-pour-les-salaires-les-services-publics-lemploi-et-lindustrie",
+    "https://www.cestlagreve.fr/greve/greve-generale-5-novembre-2026/",
+    "https://www.gov.uk/foreign-travel-advice/france/safety-and-security",
+    "https://www.prix-carburants.gouv.fr/disponibilites-carburants",
+    "https://fuel-compare.com/penuries/region/grand-est",
+    "https://www.boursorama.com/bourse/actualites/greve-totalenergies-les-expeditions-de-carburants-ont-ete-bloquees-dans-plusieurs-raffineries-selon-la-cgt-fc9e5243c5a822c3ce98bc1bd21aeb7b",
+    "https://www.bison-fute.gouv.fr/sca-sanef-sapn,11348.html",
+    "https://www.bison-fute.gouv.fr/imprimer,article11746.html"
+   ]
+  },
+  {
+   "id": "fr-champagne-roads",
+   "name": "Šampanės keliai (D951, A26)",
+   "country": "FR",
+   "days": [
+    6
+   ],
+   "level": 1,
+   "reasons": [
+    "Bison Futé sąraše A26 darbų nėra; apie D951 uždarymus XI-4 informacijos nerasta.",
+    "X-9 Grand Est regione 15 % degalinių trūko benzino arba dyzelino."
+   ],
+   "tips": [
+    "Degustacijose vairuotojas negeria – Prancūzijoje leistina riba 0,5 ‰.",
+    "Lapkritį anksti temsta – vynuogynų keliukais važiuokite šviesiu paros metu."
+   ],
+   "sources": [
+    "https://www.bison-fute.gouv.fr/sca-sanef-sapn,11348.html",
+    "https://www.prix-carburants.gouv.fr/disponibilites-carburants",
+    "https://www.gov.uk/foreign-travel-advice/france/safety-and-security"
+   ]
+  },
+  {
+   "id": "fr-a4-a31",
+   "name": "A4 / A31 Lotaringijoje",
+   "country": "FR",
+   "days": [
+    7
+   ],
+   "level": 2,
+   "reasons": [
+    "11-05 – nacionalinis streikas; greitkelių blokadų nepaskelbta, prie demonstracijų galimas lėtesnis eismas.",
+    "Moselle – 14,9 % degalinių su degalų trūkumais (10-09, per 10 d.), dažniausiai SP98.",
+    "A31 dangos darbai prie Meco (Montigny–Augny) baigėsi 07-03."
+   ],
+   "tips": [
+    "Degalų įsipilkite išvažiuodami iš Reimso, nelaukite paskutinės greitkelio degalinės.",
+    "Eismo informacija: bison-fute.gouv.fr ir Sanef radijas 107.7 FM."
+   ],
+   "sources": [
+    "https://www.24matins.fr/greve-du-5-novembre-ce-que-prepare-deja-lintersyndicale-1421874",
+    "https://cestlagreve.fr/greve/greve-generale-5-novembre-2026",
+    "https://prix-carburant.eu/ruptures/departement-57",
+    "https://www.lagazettefrance.fr/article/travaux-sur-l-a31-pres-de-metz-trois-mois-de-perturbations-annonces"
+   ]
+  },
+  {
+   "id": "vosges-passes",
+   "name": "Vogėzų perėjos (Col du Bonhomme / Sainte-Marie-aux-Mines tunelis)",
+   "country": "FR",
+   "days": [
+    7
+   ],
+   "level": 2,
+   "reasons": [
+    "Nuo 11-01 kalnų komunose (Saint-Dié, Plainfaing, Wisembach ir kt.) privaloma žieminė įranga.",
+    "Mokamas Maurice-Lemaire tunelis (N159) uždaromas 11-04→05 21:00–05:00 – lapkričio 5 d. dieną atviras.",
+    "Col du Bonhomme (949 m): oficialių orų perspėjimų dar nėra, sąlygas tikrinkite prieš pat kelionę."
+   ],
+   "tips": [
+    "Turėkite grandines ar „kojines“ – vien M+S padangos nebetinka; bauda 135 €, galimas sulaikymas.",
+    "Blogu oru rinkitės Maurice-Lemaire tunelį vietoj Col du Bonhomme; tikrinkite inforoute.alsace.eu."
+   ],
+   "sources": [
+    "https://www.allopneus.com/guide-pratique/auto/conseils-pneu/loi-montagne-vosges",
+    "https://www.camping-car.com/reglementation/30987-equipements-hiver-obligatoires-que-dit-la-loi-montagne-2025-2026",
+    "https://vosgesinfo.fr/saintdieinfo/2025/12/lusse-le-calendrier-des-fermetures-nocturnes-du-tunnel-maurice-lemaire-en-2026/",
+    "https://fr.wikipedia.org/wiki/Tunnel_Maurice-Lemaire",
+    "https://en.wikipedia.org/wiki/Col_du_Bonhomme",
+    "https://inforoute.alsace.eu"
+   ]
+  },
+  {
+   "id": "rhine-crossing",
+   "name": "Reino perėja (A35 / Breisachas / A5)",
+   "country": "FR/DE",
+   "days": [
+    8
+   ],
+   "level": 2,
+   "reasons": [
+    "A5 Riegel–Rust (abiem kryptimis) iki 11-27 dangos remontas: 4,9 km, susiaurinta važiuojamoji dalis.",
+    "Elzaso pusėje tebėra degalų trūkumų (Haut-Rhin 10-09 – 27 % degalinių per 10 d.)."
+   ],
+   "tips": [
+    "Numatykite laiko atsargą dėl A5 darbų tarp Riegel ir Rust; eismą sekite verkehr.autobahn.de.",
+    "Haut-Rhin degalų trūksta – baką pildykite iš anksto, nelaukite, kol jis beveik ištuštės."
+   ],
+   "sources": [
+    "https://verkehr.autobahn.de/o/autobahn/A5/services/roadworks",
+    "https://prix-carburant.eu/ruptures/departement-68"
+   ]
+  },
+  {
+   "id": "de-a5-a6-a3-a7",
+   "name": "A5 / A6 / A3 / A7 (Karlsrūjė–Hailbronas–Viurcburgas)",
+   "country": "DE",
+   "days": [
+    8
+   ],
+   "level": 2,
+   "reasons": [
+    "Vokietija iki 2027-03-15 tikrina atvykstančius ir iš Prancūzijos – kertant Reiną galimas sulėtėjimas",
+    "Walldorfo sankryžoje (A5/A6) rampų remontas iki 11-13; 11-06 etapas dar neskelbtas, galimi apvažiavimai",
+    "11-06 – penktadienis ir paskutinė Bavarijos rudens atostogų diena; ADAC: A3 ir A7 – tarp labiausiai kamšomų",
+    "A5 į šiaurę nuo Freiburgo – siauros juostos ruožuose Freiburg-Nord–Teningen ir Riegel–Rust (iki 11-27)",
+    "Jei važiuosite A6 į rytus: Kupferzell–Ilshofen 12 km susiaurinta iki ~1 juostos (I–VI 8–17 val., iki 11-07)",
+    "A7 į šiaurę nuo Biebelried sankryžos 4,8 km susiaurinta iki ~1 juostos (3,5 m) iki 11-30"
+   ],
+   "tips": [
+    "Pasą ar ID kortelę laikykite po ranka kertant Reiną",
+    "Walldorfe, jei jungtis bus uždaryta, sekite vietoje pažymėtą apvažiavimą",
+    "A81 Hailbronas–Viurcburgas: skelbti darbai baigiasi iki 11-01 – tikėtina sklandesnė nei A6/A7",
+    "Iš Kolmaro išvykite anksti, kad Hailbroną–Viurcburgą pravažiuotumėte iki popietės"
+   ],
+   "sources": [
+    "https://www.zdfheute.de/politik/deutschland/dobrindt-grenzkontrollen-verlaengert-2027-100.html",
+    "https://www.adac.de/news/deutschland-grenzkontrollen/",
+    "https://www.news.de/auto/859755097/verkehrsmeldung-rp-walldorf-kronau-wattenheim-rhein-neckar-kreis-karlsruhe-bad-duerkheim-zur-verkehrsstoerung-wegen-sperrung-baustelle-von-03-07-2026-bis-01-11-2026-beschraenkungen-im-verkehr-baden-wuerttemberg-rheinland-pfalz-staugefahr-in-sankt-leon-auf/1/",
+    "https://www.heidelberg24.de/region/bauarbeiten-walldorfer-kreuz-sperrung-umleitung-a5-a6-autobahn-94384396.html",
+    "https://www.wochenblatt-reporter.de/wochenblatt-mannheim/c-lokales/walldorfer-kreuz-sperrungen-auf-a5-und-a6-bauarbeiten-bis-ende-2026_a810881",
+    "https://www.adac.de/news/reise-herbstferien-deutschland-2026/",
+    "https://verkehr.autobahn.de/o/autobahn/A5/services/roadworks",
+    "https://verkehr.autobahn.de/o/autobahn/A6/services/roadworks",
+    "https://verkehr.autobahn.de/o/autobahn/A7/services/roadworks",
+    "https://verkehr.autobahn.de/o/autobahn/A81/services/roadworks"
+   ]
+  },
+  {
+   "id": "de-a73-a70",
+   "name": "A73 / A70 prie Bambergo",
+   "country": "DE",
+   "days": [
+    8,
+    9
+   ],
+   "level": 2,
+   "reasons": [
+    "A70 ties Bambergu–Hallstadtu: tiltų keitimas, triukšmo sienos, 80 km/h, siauros juostos; kartais naktį uždaroma",
+    "Bayreuth/Kulmbach trikampyje jungtis iš Bambergo į A9 (Berlyno kryptis) – 1 juosta iki XI pabaigos"
+   ],
+   "tips": [
+    "Važiuokite dieną – naktiniai uždarymai skelbiami autobahn.de/nordbayern",
+    "Prie Bayreutho trikampio tikėkitės lėtesnio eismo ir sekite laikinus geltonus ženklus"
+   ],
+   "sources": [
+    "https://www.infranken.de/lk/bamberg/a70-bei-bamberg-bauarbeiten-sorgen-fuer-naechste-vollsperrung-art-6384508",
+    "https://www.infranken.de/lk/bamberg/a70-bei-hallstadt-hier-kommt-es-zu-monatelangen-sperrungen-art-6365215,PRINT",
+    "https://www.himmelkron.de/fileadmin/user_upload/Aktuelles/14_2026_PM_A9_Deckenlos_D292LR_-Baubeginn.pdf",
+    "https://verkehr.autobahn.de/o/autobahn/A70/services/roadworks"
+   ]
+  },
+  {
+   "id": "de-a9-a72-a4",
+   "name": "A9 / A72 / A4 į Gerlicą",
+   "country": "DE",
+   "days": [
+    9
+   ],
+   "level": 2,
+   "reasons": [
+    "A9 Bad Berneck–Bayreuth remontas iki XI pabaigos; šiaurės kryptimi lieka 3 juostos",
+    "Chemnico sankryžoje jungtis A72→A4 (Drezdeno kryptis) uždaryta iki X 30–31 d., vėliau turėtų atsidaryti",
+    "A4 Limbach-Oberfrohna–Chemnitz-Glösa remontas iki gruodžio; po 2 juostas kiekviena kryptimi",
+    "Lenkijos kontrolė ties Jędrzychowice: eismas į vieną juostą, 40 km/h (tvarka nuo 2025 m. liepos)",
+    "ADAC: A4 Ludwigsdorf (Görlitz) – tarp perėjų, kur dėl Lenkijos patikrų dažniausiai susidaro spūstys"
+   ],
+   "tips": [
+    "Jei jungtis A72→A4 dar būtų uždaryta, sekite apvažiavimą per Chemnitz-Röhrsdorf",
+    "Poilsio aikštelėse rakinkite automobilį net trumpam – 2026-05 Dresdner Tor (A4) vagystė nukreipus dėmesį",
+    "Prieš išvykdami patikrinkite autobahn.de; kirsdami Lenkijos sieną turėkite pasus"
+   ],
+   "sources": [
+    "https://www.himmelkron.de/fileadmin/user_upload/Aktuelles/14_2026_PM_A9_Deckenlos_D292LR_-Baubeginn.pdf",
+    "https://ms-aktuell.de/?p=142465",
+    "https://www.l-iz.de/melder/verkehrsmelder/2026/02/a4-fahrbahnerneuerung-zwischen-den-anschlussstellen-limbach-oberfrohna-und-chemnitz-gloesa-649117",
+    "https://www.gov.pl/web/gddkia/przywrocenie-czasowej-kontroli-na-przejsciach-granicznych",
+    "https://superbiz.se.pl/wiadomosci/rzad-zdecydowal-kontrole-na-granicach-zostaja-do-konca-marca-2027-r-aa-QWCF-RHdx-oAmV.html",
+    "https://www.adac.de/news/deutschland-grenzkontrollen/",
+    "https://medienservice.sachsen.de/medien/news/1096977/download_pdf",
+    "https://verkehr.autobahn.de/o/autobahn/A4/services/closure"
+   ]
+  }
+ ],
+ "items": [
+  {
+   "id": "pl-border-checks-2027",
+   "title": "Kontrolė pasienyje su Vokietija ir Lietuva pratęsta iki 2027 m. kovo 30 d.",
+   "text": "Lenkija toliau atrankiai tikrina atvykstančius iš Lietuvos (13 vietų, 1 d. – Via Baltica) ir Vokietijos (50 vietų, 9 d. – A4). Turėkite pasus ar ID ir automobilio dokumentus; galimas trumpas sustojimas.",
+   "days": [
+    1,
+    9
+   ],
+   "places": [
+    "lt-a5-s61",
+    "pl-a4",
+    "gorlitz-zgorzelec",
+    "de-a9-a72-a4"
+   ],
+   "importance": 3,
+   "level": 2,
+   "date": "2026-10-02",
+   "source": "Wirtualna Polska",
+   "url": "https://wiadomosci.wp.pl/kontrole-na-granicach-z-niemcami-i-litwa-przedluzone-7335592259766592a"
+  },
+  {
+   "id": "a2-lodz-warszawa-70",
+   "title": "Po dvi naujas juostas A2 iš Lodzės į Varšuvą: nuo lapkričio – 70 km/h ir ruožinis greičio matavimas",
+   "text": "~90 km ruože Łódź Północ–Konotopa pagrindiniai darbai numatyti lapkritį (tiksli data nepatvirtinta). Liks po 2 juostas kryptimi, bet 70 km/h ir ruožinis matavimas. 10-30 sekite ženklus.",
+   "days": [
+    1
+   ],
+   "places": [
+    "pl-a2"
+   ],
+   "importance": 3,
+   "level": 2,
+   "date": "2026-09-25",
+   "source": "Warszawa W Pigułce",
+   "url": "https://warszawawpigulce.pl/po-dwa-nowe-pasy-na-autostradzie-a2-z-lodzi-do-warszawy-od-listopada-drastyczne-zwolnienie-do-70-km-h-i-odcinkowe-pomiary-predkosci/"
+  },
+  {
+   "id": "a1-siemonia-remont",
+   "title": "Pradedame A1 remontą",
+   "text": "Ties Siemonia–Dobieszowice (tarp Gliwice ir Pyrzowice) eismas vyksta po vieną juostą kiekviena kryptimi, 60 km/h, iki 2027 m. rugpjūčio. 9 d. pakeliui į Čenstakavą galimas sulėtėjimas.",
+   "days": [
+    9
+   ],
+   "places": [
+    "pl-a1",
+    "czestochowa"
+   ],
+   "importance": 2,
+   "level": 2,
+   "date": "2026-08-05",
+   "source": "GDDKiA Katowice (gov.pl)",
+   "url": "https://www.gov.pl/web/gddkia-katowice/rozpoczynamy-remont-a1"
+  },
+  {
+   "id": "pl-no-trading-sunday-nov",
+   "title": "Lapkritį Lenkijoje nėra nė vieno prekybinio sekmadienio",
+   "text": "11-08 grįžtant per Lenkiją didžiosios parduotuvės bus uždarytos. Dirba degalinės, vaistinės, kioskai, kepyklos – maisto ir vandens verta nusipirkti šeštadienį Čenstakavoje.",
+   "days": [
+    10
+   ],
+   "places": [
+    "czestochowa",
+    "warszawa",
+    "lomza"
+   ],
+   "importance": 2,
+   "level": 1,
+   "date": "2026-01-02",
+   "source": "Wiadomości Handlowe",
+   "url": "https://www.wiadomoscihandlowe.pl/handel-i-dystrybucja/niedziele-handlowe-w-2026-r-w-ktore-niedziele-sklepy-beda-otwarte-2531162"
+  },
+  {
+   "id": "a5-garliava-mauruciai",
+   "title": "Pradedama „Via Baltica“ ruožo nuo Garliavos iki Mauručių rekonstrukcija",
+   "text": "6,86 km A5 ruože prie Kauno darbai vyks iki 2027 m. lapkričio; kelias liks keturių juostų, konkretūs ribojimai skelbiami prieš darbus (eismoinfo.lt). 1 ir 10 d. įvertinkite galimą sulėtėjimą.",
+   "days": [
+    1,
+    10
+   ],
+   "places": [
+    "lt-a5-s61"
+   ],
+   "importance": 2,
+   "level": 2,
+   "date": "2026-06-11",
+   "source": "LRT",
+   "url": "https://www.lrt.lt/naujienos/eismas/7/2957123/pradedamas-via-baltica-ruozo-nuo-garliavos-iki-mauruciu-rekonstravimas"
+  },
+  {
+   "id": "s8-warszawa-nocne",
+   "title": "Naktiniai trukdžiai S8: kelininkai persikelia į Broniewskiego gatvės rajoną",
+   "text": "Varšuvos S8 naktimis 20–5 val. uždaromos 2 iš 3 juostų; darbai tęsis iki spalio pabaigos (vėliau – Powązkowska–Łabiszyńska). Dieną visos juostos atviros, tad važiuojant 10-30 dieną poveikio neturėtų būti.",
+   "days": [
+    1
+   ],
+   "places": [
+    "pl-s8",
+    "warszawa"
+   ],
+   "importance": 1,
+   "level": 1,
+   "date": "2026-10-05",
+   "source": "Raport Warszawski",
+   "url": "https://www.raportwarszawski.pl/artykul/5296,nocne-utrudnienia-na-s8-drogowcy-przenosza-sie-w-rejon-broniewskiego"
+  },
+  {
+   "id": "mop-thefts-ace",
+   "title": "Vagys medžioja poilsio aikštelėse (MOP): pakanka akimirkos neatidumo",
+   "text": "Vokietijos ACE įspėja: vienas blaško klausimu ar „gedimu“, kitas vagia iš automobilio. Poilsio aikštelėje visada užrakinkite automobilį ir nepalikite daiktų matomoje vietoje.",
+   "days": [
+    1,
+    9,
+    10
+   ],
+   "places": [
+    "pl-a2",
+    "pl-a4",
+    "pl-a1"
+   ],
+   "importance": 1,
+   "level": 2,
+   "date": "2026-07-29",
+   "source": "AutoCentrum.pl",
+   "url": "https://www.autocentrum.pl/newsy/zlodzieje-poluja-na-mop-ach-wystarczy-chwila-nieuwagi-i-tracisz-rzeczy-z-auta/"
+  },
+  {
+   "id": "de-n1",
+   "title": "Policija perspėja apie gudrias vagystes prie A2 ir A10",
+   "text": "Brandenburgo policija: vagys nuplėšia numerį ar kitaip išvilioja vairuotoją, kol bendrininkas iš salono vagia piniginę (A10 ties Michendorf, A2 ties Buckautal). Rakinkite automobilį, vertybių nepalikite matomoje vietoje.",
+   "days": [
+    1
+   ],
+   "places": [
+    "de-a10-a2"
+   ],
+   "importance": 3,
+   "level": 3,
+   "date": "2026-01-21",
+   "source": "auto motor und sport",
+   "url": "https://www.auto-motor-und-sport.de/verkehr/polizei-warnt-vor-trickbetruegern-auf-autobahnen-achtung-so-werden-sie-abgezockt/"
+  },
+  {
+   "id": "de-n2",
+   "title": "A2 aikštelėje prie Peinės apvogtas vairuotojas, sulaikyti trys įtariamieji",
+   "text": "2026-06-07/08 naktį Zweidorfer Holz Süd aikštelėje (A2 tarp Braunšveigo ir Peinės) vyras išviliotas „dėl gedimo“, kitas vagis paėmė piniginę. Šį ruožą važiuosite 1 d. vakare – būkite budrūs.",
+   "days": [
+    1
+   ],
+   "places": [
+    "de-a10-a2"
+   ],
+   "importance": 2,
+   "level": 3,
+   "date": "2026-06-10",
+   "source": "Saksonijos-Anhalto policija (ZVAD Magdeburg)",
+   "url": "https://polizei.sachsen-anhalt.de/fileadmin/tsa_rssinclude/zentraler-verkehrs-und-autobahndienst-der-pi-magdeburg_10_06_2026_pressemitteilung_laenderuebergreifende-zusammenarbeit-zwischen-den-autobahnpolizeien-magdeburg-und-braunschweig-fuehrt-zum-erfolg.pdf"
+  },
+  {
+   "id": "de-n3",
+   "title": "Kelno Domas: turistams įėjimas dabar 12 €",
+   "text": "Nuo 2026-07-01 lankymas su bilietu: 12 €, studentams 6 €; I–VI 10:00–17:45, sekm. 13:30–16:30. Pirkite internetu iš anksto; maldos zona prie šiaurinio įėjimo nemokama.",
+   "days": [
+    2
+   ],
+   "places": [
+    "koln"
+   ],
+   "importance": 2,
+   "level": 1,
+   "date": "2026-06-02",
+   "source": "ZDFheute",
+   "url": "https://www.zdfheute.de/panorama/koelner-dom-eintritt-zwoelf-euro-100.html"
+  },
+  {
+   "id": "de-n4",
+   "title": "Kelno Trankgasse – kišenvagysčių „karštasis taškas“ Nr. 1 ŠRV",
+   "text": "ŠRV vidaus reikalų ministerijos duomenimis, 2025 m. daugiausia kišenvagysčių užregistruota Trankgasse – gatvėje tarp Domo ir stoties. Ten telefoną ir piniginę laikykite užsegtus.",
+   "days": [
+    2
+   ],
+   "places": [
+    "koln"
+   ],
+   "importance": 2,
+   "level": 2,
+   "date": "2026-04-08",
+   "source": "Radio Erft",
+   "url": "https://www.radioerft.de/artikel/koeln-bleibt-hochburg-fuer-taschendiebstaehle-2618944"
+  },
+  {
+   "id": "de-n5",
+   "title": "31.10 Leverkuzene – Bayer ir Stuttgart rungtynės",
+   "text": "Bundesliga: šeštadienį 15:30 BayArena (netoli A1/A3 Leverkuzeno sankryžos). Prieš ir po rungtynių galimas tankesnis eismas – A1 ruožą geriau pravažiuoti iki pietų.",
+   "days": [
+    2
+   ],
+   "places": [
+    "de-a1-a3-koln"
+   ],
+   "importance": 2,
+   "level": 2,
+   "date": "2026-10-08",
+   "source": "hessenschau",
+   "url": "https://www.hessenschau.de/sport/ergebnisse-tabellen/fussball-1bl100~_matchday-8.html"
+  },
+  {
+   "id": "de-n6",
+   "title": "A1 Dortmundas–Kelnas: keli remonto ruožai su greičio ribojimais",
+   "text": "Autobahn GmbH duomenimis 31.10 veiks darbai ties Dortmund/Unna (60 km/h), Wermelskirchen–Burscheid–Leverkusen ir Reino tiltu (80 km/h, siauros juostos). Numatykite laiko atsargą.",
+   "days": [
+    2
+   ],
+   "places": [
+    "de-a1-a3-koln"
+   ],
+   "importance": 2,
+   "level": 2,
+   "date": "2026-10-09",
+   "source": "Autobahn GmbH",
+   "url": "https://verkehr.autobahn.de/o/autobahn/A1/services/roadworks"
+  },
+  {
+   "id": "de-n7",
+   "title": "Vokietija pratęsė pasienio kontrolę visose sausumos sienose iki 2027-03-15",
+   "text": "Įvažiuojant į Vokietiją (1 d. per Świecko–Frankfurtą prie Oderio, 8 d. per Reiną iš Prancūzijos) galimi patikrinimai ir eilės. Turėkite pasus ar ID korteles ir automobilio dokumentus.",
+   "days": [
+    1,
+    8
+   ],
+   "places": [
+    "de-a10-a2",
+    "pl-a2",
+    "de-a5-a6-a3-a7"
+   ],
+   "importance": 2,
+   "level": 2,
+   "date": "2026-08-18",
+   "source": "MS-Aktuell",
+   "url": "https://ms-aktuell.de/?p=152220"
+  },
+  {
+   "id": "de-n8",
+   "title": "31.10 – Reformacijos diena: Žemutinėje Saksonijoje šventė",
+   "text": "Šeštadienį Peinėje ir Braunšveige parduotuvės bus uždarytos. ŠRV (Kelnas, Achenas) 31.10 nėra šventinė diena – įprastas šeštadienis.",
+   "days": [
+    2
+   ],
+   "places": [
+    "braunschweig-peine"
+   ],
+   "importance": 1,
+   "level": 1,
+   "date": "2025-09-23",
+   "source": "Stuttgarter Zeitung",
+   "url": "https://www.stuttgarter-zeitung.de/wissen/wo-ist-der-31-10-ein-feiertag-mhsd-79050759.html"
+  },
+  {
+   "id": "de-n9",
+   "title": "A2 Hanoveris–Dortmundas: siauresnės juostos ties Herfordu ir Rheda-Wiedenbrück",
+   "text": "Autobahn GmbH duomenimis 31.10 kryptimi į Dortmundą A2 ties Herfordu (iki 20.11) ir Rheda-Wiedenbrück (iki 31.12) juostos susiaurintos dėl tiltų darbų.",
+   "days": [
+    2
+   ],
+   "places": [
+    "de-a10-a2"
+   ],
+   "importance": 1,
+   "level": 2,
+   "date": "2026-10-09",
+   "source": "Autobahn GmbH",
+   "url": "https://verkehr.autobahn.de/o/autobahn/A2/services/roadworks"
+  },
+  {
+   "id": "fr-toussaint-2026-traffic",
+   "title": "Lapkričio 1-oji sekmadienį: Visų Šventųjų diena ir ilgasis savaitgalis Prancūzijoje",
+   "text": "Lapkr. 1 d. – sekmadienis, šventė ir paskutinė mokinių atostogų diena (pamokos nuo lapkr. 2 d.). Bison Futé eismo prognozė skelbiama likus kelioms dienoms – patikrinkite prieš kelionę.",
+   "days": [
+    3
+   ],
+   "places": [
+    "fr-a13",
+    "fr-a2-a26-a29-a28",
+    "honfleur",
+    "lisieux",
+    "rouen"
+   ],
+   "importance": 2,
+   "level": 1,
+   "date": "2026-09-16",
+   "source": "vacances-scolaires.com",
+   "url": "https://vacances-scolaires.com/actualites/2026/09/16/1er-novembre-2026-la-toussaint-tombe-un-dimanche-un-week-end-de-quatre-jours-en-perspective/"
+  },
+  {
+   "id": "be-strike-threat-nov23",
+   "title": "Belgijos profsąjungos grasina visuotiniu streiku lapkričio 23-iosios savaitę",
+   "text": "Lapkričio 1 d. Belgijoje streikų ar demonstracijų nepaskelbta. FGTB gali skelbti visuotinį streiką lapkr. 23 d. savaitę, jei vyriausybė peržengs „raudonąsias linijas“ – jūsų kelionės tai neliečia.",
+   "days": [
+    3
+   ],
+   "places": [
+    "belgium-transit",
+    "be-e40-e42"
+   ],
+   "importance": 1,
+   "level": 1,
+   "date": "2026-09-08",
+   "source": "VRT NWS",
+   "url": "https://www.vrt.be/vrtnws/fr/2026/09/08/la-fgtb-et-la-csc-manifesteront-le-9-octobre-a-bruxelles-un-pr/"
+  },
+  {
+   "id": "be-e42-rhisnes-spy-works",
+   "title": "Iki lapkričio vidurio – E42 remontas tarp Rhisnes ir Spy",
+   "text": "4 km ruože tarp Namiūro vakarų (12) ir Spy (13) mazgų link Monso – viena juosta 50 km/h, kita perkelta į priešingą pusę (70 km/h). Važiuodami E42 per Namiūrą numatykite kelias papildomas minutes.",
+   "days": [
+    3
+   ],
+   "places": [
+    "be-e40-e42",
+    "belgium-transit"
+   ],
+   "importance": 2,
+   "level": 2,
+   "date": "2026-09-29",
+   "source": "L'Avenir",
+   "url": "https://www.lavenir.net/regions/namur/la-bruyere/2026/09/29/travaux-jusqua-la-mi-novembre-sur-lautoroute-e42-quatre-kilometres-de-revetement-vont-etre-renoves-entre-rhisnes-et-spy-72AJG3UGHBHNNPGSXWZ3Q4BEV4/"
+  },
+  {
+   "id": "rouen-demo-2026-10-08",
+   "title": "„Eisime iki galo“: Ruane be incidentų žygiavo moksleiviai, studentai ir profsąjungos",
+   "text": "Spalio 8 d. ~4 000 žmonių (organizatorių duomenimis) taikiai žygiavo nuo Place Joffre link rektorato ir prefektūros; kita akcija – spalio 13 d. Lapkr. 1–3 d. akcijų nepaskelbta.",
+   "days": [
+    3,
+    4,
+    5
+   ],
+   "places": [
+    "rouen"
+   ],
+   "importance": 1,
+   "level": 1,
+   "date": "2026-10-08",
+   "source": "France 3 Normandie",
+   "url": "https://france3-regions.franceinfo.fr/normandie/seine-maritime/rouen/on-ira-jusqu-au-bout-lyceens-etudiants-et-syndicats-defilent-a-rouen-lors-d-une-manifestation-sans-heurts-3430251.html"
+  },
+  {
+   "id": "normandy-fuel-prices-2026-10-09",
+   "title": "„Norėtume kainų įšaldymo“: vežėjai nerimauja dėl degalų kainų",
+   "text": "Spalio 9 d. duomenimis, Normandijoje benzinas kainuoja 2,10–2,30 €/l. Planuodami biudžetą įvertinkite brangesnį kurą; vežėjų blokadų nepaskelbta.",
+   "days": [
+    3,
+    4,
+    5
+   ],
+   "places": [
+    "rouen",
+    "fr-a13"
+   ],
+   "importance": 1,
+   "level": 1,
+   "date": "2026-10-09",
+   "source": "France 3 Normandie",
+   "url": "https://france3-regions.franceinfo.fr/normandie/seine-maritime/rouen/on-aimerait-un-gel-des-prix-pour-les-professionnels-de-la-route-les-transporteurs-s-inquietent-du-prix-de-l-essence-3430164.html"
+  },
+  {
+   "id": "fr-strike-1105",
+   "title": "Penkios profsąjungos kviečia lapkričio 5 d. streikuoti ir demonstruoti",
+   "text": "CFDT, CGT, FO, UNSA ir FSU kviečia XI‑5 visos šalies streikui ir eitynėms — tą dieną važiuojate Reimsas → Mecas → Kolmaras. Vietiniai maršrutai dar nepaskelbti. Išvykite anksti, pilnu baku, miestų centrų venkite.",
+   "days": [
+    7
+   ],
+   "places": [
+    "reims",
+    "fr-a4-reims",
+    "verdun-metz",
+    "colmar"
+   ],
+   "importance": 3,
+   "level": 3,
+   "date": "2026-10-05",
+   "source": "CGT (bendras profsąjungų pranešimas)",
+   "url": "https://www.cgt.fr/comm-de-presse/appel-la-mobilisation-pour-les-salaires-les-services-publics-lemploi-et-lindustrie"
+  },
+  {
+   "id": "fr-zfe-reims",
+   "title": "Taršos zonos (ZFE) Ruane ir Reimse lieka galioti",
+   "text": "Konstitucinė taryba (2026-05-21) ZFE paliko. Ruane ir Reimse draudžiami Crit'Air 4, 5 ir be klasės; lipdukas privalomas ir užsienio automobiliams, bauda 68 €. Crit'Air 1 automobiliui ribojimų nėra.",
+   "days": [
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "places": [
+    "reims",
+    "rouen",
+    "fr-a13"
+   ],
+   "importance": 3,
+   "level": 2,
+   "date": "2026-05-21",
+   "source": "LCP",
+   "url": "https://lcp.fr/actualites/zfe-le-conseil-constitutionnel-censure-la-suppression-des-zones-a-faibles-emissions"
+  },
+  {
+   "id": "fr-total-strike-1008",
+   "title": "TotalEnergies streikas: blokuotas degalų išvežimas iš kelių perdirbimo gamyklų",
+   "text": "CGT duomenimis, X-8 blokuotas išvežimas iš Normandijos, Donžo ir La Medo gamyklų; uždaryta 23–29 „Argedis“ degalinių. Įmonė teigia tiekimą tęsianti. X-9 streikuotojai sprendė dėl tęsimo.",
+   "days": [
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "places": [
+    "reims",
+    "fr-a4-reims",
+    "fr-paris-ring",
+    "rouen",
+    "honfleur",
+    "etretat",
+    "fr-a13",
+    "fr-a2-a26-a29-a28"
+   ],
+   "importance": 2,
+   "level": 2,
+   "date": "2026-10-08",
+   "source": "Boursorama (AFP)",
+   "url": "https://www.boursorama.com/bourse/actualites/greve-totalenergies-les-expeditions-de-carburants-ont-ete-bloquees-dans-plusieurs-raffineries-selon-la-cgt-fc9e5243c5a822c3ce98bc1bd21aeb7b"
+  },
+  {
+   "id": "fr-a344-stremi-works",
+   "title": "A344 Reimse: Saint-Remi mazgo nuovažos uždarytos iki gruodžio 31 d.",
+   "text": "Dėl darbų uždaryta nuovaža iš A344 (nuo Tinqueux) į Avenue de Champagne ir užvažiavimas iš jos. Važiuodami prie šampano namų išvažiuokite ties Reims-Cathédrale arba apsisukite Cormontreuil mazge.",
+   "days": [
+    5,
+    6,
+    7
+   ],
+   "places": [
+    "reims",
+    "fr-a4-reims"
+   ],
+   "importance": 2,
+   "level": 2,
+   "date": "2026-05-18",
+   "source": "Bison Futé / Sanef",
+   "url": "https://www.bison-fute.gouv.fr/imprimer,article11746.html"
+  },
+  {
+   "id": "lor-carburant-ge",
+   "title": "Grand Est ir aplink Paryžių dalyje degalinių trūksta degalų",
+   "text": "Oficialiais X‑9 duomenimis degalų trūko 15 % Grand Est, 10 % Centro–Luaros ir 9 % Il de Franso degalinių (Prancūzijos vidurkis 8–9 %). Pilkitės iš anksto, bako nevarykite iki rezervo.",
+   "days": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "places": [
+    "verdun-metz",
+    "vosges",
+    "colmar",
+    "eguisheim",
+    "chartres",
+    "reims",
+    "fr-paris-ring",
+    "fr-a4-reims"
+   ],
+   "importance": 3,
+   "level": 2,
+   "date": "2026-10-09",
+   "source": "prix-carburants.gouv.fr",
+   "url": "https://www.prix-carburants.gouv.fr/disponibilites-carburants"
+  },
+  {
+   "id": "lor-loi-montagne",
+   "title": "Nuo lapkričio 1 d. Vogėzų kalnuose privaloma žieminė įranga",
+   "text": "Iki 03-31 Vosges ir Haut-Rhin kalnų komunose reikia 4 padangų su 3PMSF ženklu arba grandinių/„kojinių“ dviem varantiems ratams. Vien M+S nebetinka, bauda 135 €, galimas sulaikymas.",
+   "days": [
+    7
+   ],
+   "places": [
+    "vosges"
+   ],
+   "importance": 3,
+   "level": 2,
+   "date": "2025-11-02",
+   "source": "camping-car.com",
+   "url": "https://www.camping-car.com/reglementation/30987-equipements-hiver-obligatoires-que-dit-la-loi-montagne-2025-2026"
+  },
+  {
+   "id": "lor-carburant-68",
+   "title": "Haut-Rhin departamente degalų trūko 27 % degalinių",
+   "text": "Per 10 d. iki 10-09 33 iš 123 Haut-Rhin degalinių trūko bent vienos rūšies degalų, dažniausiai dyzelino ir SP98; Kolmare – viena Total degalinė. Į Kolmarą atvykite su pilnu baku.",
+   "days": [
+    7,
+    8
+   ],
+   "places": [
+    "colmar",
+    "eguisheim"
+   ],
+   "importance": 2,
+   "level": 2,
+   "date": "2026-10-09",
+   "source": "prix-carburant.eu (pagal oficialius duomenis)",
+   "url": "https://prix-carburant.eu/ruptures/departement-68"
+  },
+  {
+   "id": "lor-a5-riegel",
+   "title": "A5 ruože Riegel–Rust kelio dangos remontas iki lapkričio 27 d.",
+   "text": "Autobahn GmbH duomenimis 4,9 km ruože abiem kryptimis atnaujinama danga, važiuojamoji dalis susiaurinta. Lapkričio 6 d. važiuojant nuo Freiburgo į šiaurę galimi kamščiai.",
+   "days": [
+    8
+   ],
+   "places": [
+    "eguisheim"
+   ],
+   "importance": 2,
+   "level": 2,
+   "date": "2026-10-09",
+   "source": "Die Autobahn GmbH",
+   "url": "https://verkehr.autobahn.de/o/autobahn/A5/services/roadworks"
+  },
+  {
+   "id": "lor-rhin-kaub",
+   "title": "Reino vandens lygis Kaube pirmą kartą nukrito žemiau nulio",
+   "text": "Rugsėjo pabaigoje Reinas Kaube nukrito žemiau nulio; vidurinėje Reino dalyje plaukia tik pavienės baržos, greito pagerėjimo nenumatoma. Žemas vanduo apsunkina degalų tiekimą Elzasui.",
+   "days": [
+    7,
+    8
+   ],
+   "places": [
+    "colmar",
+    "eguisheim"
+   ],
+   "importance": 1,
+   "level": 1,
+   "date": "2026-09-30",
+   "source": "inFranken.de",
+   "url": "https://www.infranken.de/deutschland/negative-pegelwerte-rekordniedrigwasser-des-rheins-art-6399580,PRINT"
+  },
+  {
+   "id": "lor-tml-fermeture",
+   "title": "Maurice-Lemaire tunelis uždaromas lapkričio 4–5 d. naktį – jūsų kelionei netrukdo",
+   "text": "APRR tunelį (N159, Lusse–Sainte-Marie-aux-Mines) uždaro 11-04→05 21:00–05:00, o 11-06 18:00–24:00 – dėl civilinės saugos pratybų. Lapkričio 5 d. dieną važiuoti galima.",
+   "days": [
+    7
+   ],
+   "places": [
+    "vosges"
+   ],
+   "importance": 1,
+   "level": 1,
+   "date": "2025-12-12",
+   "source": "Vosges Info / Saint-Dié Info",
+   "url": "https://vosgesinfo.fr/saintdieinfo/2025/12/lusse-le-calendrier-des-fermetures-nocturnes-du-tunnel-maurice-lemaire-en-2026/"
+  },
+  {
+   "id": "de-se-bavaria-autumn-holidays",
+   "title": "Bavarijoje rudens atostogos – lapkričio 2–6 d.",
+   "text": "Bavarija atostogauja paskutinė. ADAC: labiausiai kamšomos A1, A3, A7, A8, A9, o piko metas – penktadienio popietė. 11-06 popietę apie Viurcburgą tikėtinas didesnis srautas – išvykite anksčiau.",
+   "days": [
+    8
+   ],
+   "places": [
+    "wurzburg",
+    "bamberg",
+    "de-a5-a6-a3-a7"
+   ],
+   "importance": 2,
+   "level": 2,
+   "date": "2026-10-06",
+   "source": "ADAC",
+   "url": "https://www.adac.de/news/reise-herbstferien-deutschland-2026/"
+  },
+  {
+   "id": "de-se-chemnitz-ramp",
+   "title": "Chemnico sankryžos jungtis A72→A4 (Drezdeno kryptimi) turėtų atsidaryti iki lapkričio",
+   "text": "Tai jūsų manevras 11-07 (iš Hofo į Gerlicą). Uždarymas skelbtas iki spalio 30–31 d.; jei būtų pratęstas – apvažiavimas per Chemnitz-Röhrsdorf. Prieš kelionę patikrinkite autobahn.de.",
+   "days": [
+    9
+   ],
+   "places": [
+    "de-a9-a72-a4"
+   ],
+   "importance": 1,
+   "level": 1,
+   "date": "2026-07-17",
+   "source": "MS-Aktuell",
+   "url": "https://ms-aktuell.de/?p=142465"
+  },
+  {
+   "id": "de-se-a9-bayreuth",
+   "title": "A9 remontas prie Bayreutho tęsis iki lapkričio pabaigos",
+   "text": "Tarp Bad Berneck ir Bayreuth/Kulmbach trikampio keičiama danga. Jungtis iš Bambergo (A70) į A9 Berlyno kryptimi susiaurinta iki vienos juostos – 11-07 skirkite papildomo laiko.",
+   "days": [
+    9
+   ],
+   "places": [
+    "bamberg",
+    "de-a73-a70",
+    "de-a9-a72-a4"
+   ],
+   "importance": 2,
+   "level": 2,
+   "date": "2026-04-08",
+   "source": "Die Autobahn GmbH (Nordbayern)",
+   "url": "https://www.himmelkron.de/fileadmin/user_upload/Aktuelles/14_2026_PM_A9_Deckenlos_D292LR_-Baubeginn.pdf"
+  },
+  {
+   "id": "de-se-walldorf",
+   "title": "Walldorfo sankryžoje (A5/A6) tęsiasi rampų remontas",
+   "text": "Jungtys tarp A5 ir A6 uždaromos etapais; Autobahn GmbH darbus planuoja iki metų pabaigos. Jei 11-06 bus uždaryta jungtis A5→A6 Hailbrono link – apvažiavimas per Heidelberg/Schwetzingen.",
+   "days": [
+    8
+   ],
+   "places": [
+    "de-a5-a6-a3-a7"
+   ],
+   "importance": 2,
+   "level": 2,
+   "date": "2026-07-06",
+   "source": "Heidelberg24",
+   "url": "https://www.heidelberg24.de/region/bauarbeiten-walldorfer-kreuz-sperrung-umleitung-a5-a6-autobahn-94384396.html"
+  },
+  {
+   "id": "de-se-a5-freiburg-roadworks",
+   "title": "A5 į šiaurę nuo Freiburgo – siaurinimai iki lapkričio pabaigos",
+   "text": "Autobahn GmbH duomenimis, kryptimi į Karlsrūję siauros juostos ruožuose Freiburg-Nord–Teningen (iki 2027 m. kovo) ir Riegel–Rust (iki 11-27). 11-06 važiuojant A5 nuo Freiburgo į šiaurę eismas gali būti lėtesnis.",
+   "days": [
+    8
+   ],
+   "places": [
+    "de-a5-a6-a3-a7"
+   ],
+   "importance": 1,
+   "level": 2,
+   "date": "2026-10-09",
+   "source": "Die Autobahn GmbH (verkehr.autobahn.de)",
+   "url": "https://verkehr.autobahn.de/o/autobahn/A5/services/roadworks"
+  },
+  {
+   "id": "de-se-bautzen-market",
+   "title": "Budyšino blusų turgus lapkričio 7 d. – organizatoriaus antraštėje yra, sąraše dar ne",
+   "text": "Organizatoriaus svetainės antraštėje turgui Wilthener Str. nurodyta 11-07 (9–15 val.), bet renginių sąraše lapkričio datos dar nėra. Prieš važiuodami pasitikrinkite (tel. 03591 30 43 54).",
+   "days": [
+    9
+   ],
+   "places": [
+    "bautzen"
+   ],
+   "importance": 2,
+   "level": 1,
+   "date": "2026-10-09",
+   "source": "Oberlausitzer Trödelmarkt",
+   "url": "https://www.oberlausitzer-troedelmarkt.de/"
+  },
+  {
+   "id": "de-se-gorlitz-crime-2025",
+   "title": "Görlitzo policija: automobilių vagysčių 2025 m. sumažėjo 21,6 %",
+   "text": "Bautzeno ir Görlitzo apskrityse pavogta 280 automobilių. Turtinių nusikaltimų rodiklis didžiausias Gerlico mieste, nors mažėja. Statykite apšviestose aikštelėse, daiktų nepalikite matomoje vietoje.",
+   "days": [
+    9
+   ],
+   "places": [
+    "gorlitz-zgorzelec",
+    "bautzen"
+   ],
+   "importance": 1,
+   "level": 2,
+   "date": "2026-04-01",
+   "source": "Polizeidirektion Görlitz",
+   "url": "https://medienservice.sachsen.de/medien/news/1096082/download_pdf"
+  }
+ ]
+}
