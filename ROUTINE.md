@@ -7,6 +7,11 @@ route, translate it into Lithuanian, rate the risk, and publish an updated `dige
 ## 0. When to stop
 Run `date -u +%Y-%m-%dT%H:%M:%SZ`. If the date is after **2026-11-09**, do nothing (no commit) and finish.
 
+## 0b. Every run — no shortcuts
+Do the **full research pass** every time (at least one local-language search per country on the upcoming days of the
+route, plus the official sources in §3), even if `digest.json` looks fresh. Always set `updated` to the current time and
+**commit and push every run**, even when nothing else changed — the app shows `updated` as "last checked".
+
 ## 1. The trip (dates are fixed)
 | Day | Date (local) | Route |
 |---|---|---|
@@ -76,7 +81,7 @@ A level applies to the specific days they are there. Every reason needs a source
 - `updated` = current UTC time from `date -u`.
 
 ## 6. Privacy — never write personal data
-No names, home town or address, phone numbers, car plate, policy or booking numbers. Only public information about places and roads.
+No names, no home town (never name the travellers' home town; write "namai" instead), no address, phone numbers, car plate, policy or booking numbers. Only public information about places and roads.
 
 ## 7. Publish
 1. Validate: `python3 -c "import json;d=json.load(open('digest.json'));assert all(1<=x['level']<=4 for x in d['places']+d['roads'])"` and that every
