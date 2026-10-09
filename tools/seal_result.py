@@ -28,7 +28,7 @@ PRODUCTS = {"kava.espresso", "kava.pienu", "kava.juoda", "arbata", "sokoladas", 
 CARD = [re.compile(p, re.I) for p in (
     r"\d[\d ]{11,}\d",                                   # long digit runs (card / IBAN-like numbers)
     r"(?:[*Xx•#]{2,}[\s-]?){1,4}\d{2,4}",                # **** 1234, XXXXXXXXXXXX1234
-    r"\b(?:auth|auto|aut|autor|code aut|autoryzacja|genehmigung)\w*[\s.:#-]*\w*\d{4,}\w*",
+    r"\b(?:auth|auto|aut|autor|code aut|autoryzacja|autoryz|genehmigung|kartennr|karten-nr|nr karty|n° carte|carte n)\w*[\s.:#|°-]*\w*\d{4,}\w*",
 )]
 
 

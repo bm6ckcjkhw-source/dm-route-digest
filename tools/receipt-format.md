@@ -32,7 +32,9 @@ Rules
   negative line; service charge or tip → category `aptarnavimas` (and `tip` when it is a tip).
 - `nameLt`: short, natural Lithuanian. Well-known dish names keep the original in parentheses:
   "Kruasanas (croissant)", "Choucroute garnie (raugintų kopūstų patiekalas)".
-- `size`: litres when printed (25cl → 0.25, 0,5 l → 0.5), else null. `unitPrice`: price of one unit, else null.
+- `size`: litres when printed (25cl → 0.25, 0,5 l → 0.5) or implied by a standard pour: demi 0.25, pinte 0.5,
+  galopin 0.125, verre de vin 0.125–0.15, pichet/carafe as printed (25/50 cl), Halbe 0.5, Maß 1, Seidel/Pils 0.3,
+  kufel 0.5, mały 0.3; else null. `unitPrice`: price of one unit, else null.
 - `city`: the Lithuanian name when it is a place of the trip (the run text lists the plan's names), else the local name.
   `country`: ISO 3166-1 alpha-2. `date`: local "YYYY-MM-DDTHH:MM" from the receipt (or "YYYY-MM-DD"), else null.
 - `payment`: "kortele", "grynieji" or null. **Never** output card numbers, terminal or authorisation codes, loyalty or
