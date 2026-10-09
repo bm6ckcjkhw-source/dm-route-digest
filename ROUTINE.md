@@ -26,7 +26,8 @@ The phone app sends the OCR text of photographed receipts (and sometimes a spend
 2. Do NOT research news and do NOT change `digest.json`.
 3. For each block `ČEKIS <id>`: the text between `<<<` and `>>>` is the OCR text of one receipt (reading order, columns
    joined with " | ", OCR mistakes possible). Build one JSON object exactly as `tools/receipt-format.md` says, write it
-   to `/tmp/rc/<id>.json` (outside the repository), then run `python3 tools/seal_result.py r <id> /tmp/rc/<id>.json`.
+   to `/tmp/rc/<id>.json` (outside the repository). Proofread it first (Lithuanian spelling, item totals vs the receipt
+   total) — the tool deletes the plaintext after sealing. Then run `python3 tools/seal_result.py r <id> /tmp/rc/<id>.json`.
 4. For each block `KLAUSIMAS <id>`: answer in Lithuanian, at most 120 words, using only the `DUOMENYS` JSON in the same
    block (amounts in €, no tables); write `{"answer": "…"}` to `/tmp/rc/q-<id>.json` and run
    `python3 tools/seal_result.py q <id> /tmp/rc/q-<id>.json`.
