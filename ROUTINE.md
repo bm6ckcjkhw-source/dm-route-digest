@@ -84,6 +84,7 @@ A level applies to the specific days they are there. Every reason needs a source
 No names, no home town (never name the travellers' home town; write "namai" instead), no address, phone numbers, car plate, policy or booking numbers. Only public information about places and roads.
 
 ## 7. Publish
+0. Write the file with `json.dump(d, f, ensure_ascii=False, indent=1)` (readable Lithuanian, small diffs).
 1. Validate: `python3 -c "import json;d=json.load(open('digest.json'));assert all(1<=x['level']<=4 for x in d['places']+d['roads'])"` and that every
    `top` id exists in `items`.
 2. `git add digest.json && git commit -m "digest: <UTC time>"` and `git push origin HEAD:main`.
