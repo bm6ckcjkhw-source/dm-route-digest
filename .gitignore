@@ -1,0 +1,5 @@
+db/
+db2/
+tmpdb/
+__pycache__/
+*.pyc
