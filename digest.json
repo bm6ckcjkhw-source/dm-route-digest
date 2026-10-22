@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-21T04:02:47Z",
- "summary": "Daugelyje vietų sąlygos įprastos: dažniausiai pasitaiko kelio darbų, pasienio patikrų ir kišenvagių lankomose vietose. Labiausiai pasiruoškite 7-ajai dienai (11-05). Tą dieną Prancūzijoje paskelbtas nacionalinis streikas ir demonstracijos, o Grand Est ir Elzase dalyje degalinių trūksta degalų, todėl iš Reimso išvykite anksti ir pilnu baku. Vogėzų perėjoms nuo 11-01 privaloma žieminė įranga (3PMSF padangos arba grandinės). Priklijuokite Crit'Air (Ruanas, Reimsas) ir žalią Umweltzone (Kelnas, Achenas) lipdukus. 1-ą dieną A10/A2 poilsio aikštelėse būkite budrūs, nes policija ten fiksavo gudrias vagystes.",
+ "updated": "2026-10-22T04:02:27Z",
+ "summary": "Daugelyje vietų sąlygos įprastos: dažniausiai pasitaiko kelio darbų, pasienio patikrų ir kišenvagių lankomose vietose. Labiausiai pasiruoškite 7-ajai dienai (11-05). Tą dieną Prancūzijoje paskelbtas nacionalinis streikas ir demonstracijos, o Grand Est (~24–31 % degalinių) ir Elzase trūksta degalų, situacija pablogėjo, todėl iš Reimso išvykite anksti ir pilnu baku. Vogėzų perėjoms nuo 11-01 privaloma žieminė įranga (3PMSF padangos arba grandinės). Priklijuokite Crit'Air (Ruanas, Reimsas) ir žalią Umweltzone (Kelnas, Achenas) lipdukus. 1-ą dieną A10/A2 poilsio aikštelėse būkite budrūs, nes policija ten fiksavo gudrias vagystes.",
  "top": [
   "fr-strike-1105",
   "lor-carburant-ge",
@@ -1543,7 +1543,7 @@
   {
    "id": "fr-strike-1105",
    "title": "Penkios profsąjungos kviečia lapkričio 5 d. streikuoti ir demonstruoti",
-   "text": "CFDT, CGT, FO, UNSA ir FSU kviečia XI‑5 visos šalies streikui ir eitynėms (transporto streiko dar neskelbta; kai kurie kolektyvai kalba apie blokadas). Išvykite anksti, pilnu baku.",
+   "text": "CFDT, CGT, FO, UNSA ir FSU kviečia XI‑5 visos šalies streikui; SNCF profsąjungos taip pat kviečia streikuoti (traukinių sąrašo dar nėra). Išvykite anksti, pilnu baku.",
    "days": [
     7
    ],
@@ -1634,7 +1634,7 @@
   {
    "id": "lor-carburant-ge",
    "title": "Grand Est ir aplink Paryžių dalyje degalinių trūksta degalų",
-   "text": "Oficialiais X‑9 duomenimis degalų trūko 15 % Grand Est, 10 % Centro–Luaros ir 9 % Il de Franso degalinių (Prancūzijos vidurkis 8–9 %). Pilkitės iš anksto, bako nevarykite iki rezervo.",
+   "text": "Spalio 18 d. duomenimis Prancūzijoje be degalų 595 degalinės; Grand Est ~24–31 % degalinių trūksta produkto (daugiausia TotalEnergies). Pilkitės iš anksto, bako nevarykite iki rezervo.",
    "days": [
     3,
     4,
@@ -1655,10 +1655,10 @@
    ],
    "importance": 3,
    "level": 2,
-   "date": "2026-10-09",
-   "source": "prix-carburants.gouv.fr",
-   "url": "https://www.prix-carburants.gouv.fr/disponibilites-carburants",
-   "score": 8
+   "date": "2026-10-19",
+   "source": "L'Automobiliste / PrixCarbu",
+   "url": "https://lautomobiliste.fr/19/10/2026/guide-automobiliste-carburant-penurie/",
+   "score": 9
   },
   {
    "id": "lor-loi-montagne",
