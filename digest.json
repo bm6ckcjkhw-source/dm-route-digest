@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T04:02:27Z",
+ "updated": "2026-10-22T16:02:43Z",
  "summary": "Daugelyje vietų sąlygos įprastos: dažniausiai pasitaiko kelio darbų, pasienio patikrų ir kišenvagių lankomose vietose. Labiausiai pasiruoškite 7-ajai dienai (11-05). Tą dieną Prancūzijoje paskelbtas nacionalinis streikas ir demonstracijos, o Grand Est (~24–31 % degalinių) ir Elzase trūksta degalų, situacija pablogėjo, todėl iš Reimso išvykite anksti ir pilnu baku. Vogėzų perėjoms nuo 11-01 privaloma žieminė įranga (3PMSF padangos arba grandinės). Priklijuokite Crit'Air (Ruanas, Reimsas) ir žalią Umweltzone (Kelnas, Achenas) lipdukus. 1-ą dieną A10/A2 poilsio aikštelėse būkite budrūs, nes policija ten fiksavo gudrias vagystes.",
  "top": [
   "fr-strike-1105",
@@ -1872,6 +1872,25 @@
    "source": "Polizeidirektion Görlitz",
    "url": "https://medienservice.sachsen.de/medien/news/1096082/download_pdf",
    "score": 3
+  },
+  {
+   "id": "fr-sncf-strike-1105",
+   "title": "SNCF profsąjungos taip pat kviečia streikuoti lapkričio 5 d.",
+   "text": "Geležinkelininkai prisijungia prie nacionalinio streiko 11-05. Jūs važiuojate automobiliu, bet stotys ir centrai bus perpildyti; planuokite išvykimą anksti.",
+   "days": [
+    7
+   ],
+   "places": [
+    "reims",
+    "colmar",
+    "verdun-metz"
+   ],
+   "importance": 2,
+   "score": 5,
+   "level": 2,
+   "date": "2026-10-22",
+   "source": "L'Echo Touristique",
+   "url": "https://www.lechotouristique.com/transport/sncf-les-syndicats-appellent-a-la-greve-le-5-novembre-a-la-veille-du-lancement-du-tgv-m"
   }
  ]
 }
