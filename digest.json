@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T04:02:18Z",
+ "updated": "2026-10-31T16:02:22Z",
  "summary": "Daugelyje vietų sąlygos įprastos: dažniausiai pasitaiko kelio darbų, pasienio patikrų ir kišenvagių lankomose vietose. Labiausiai pasiruoškite 7-ajai dienai (11-05). Tą dieną Prancūzijoje paskelbtas nacionalinis streikas ir demonstracijos, o Grand Est (~24–31 % degalinių) ir Elzase trūksta degalų, situacija pablogėjo, todėl iš Reimso išvykite anksti ir pilnu baku. Vogėzų perėjoms nuo 11-01 privaloma žieminė įranga (3PMSF padangos arba grandinės). Priklijuokite Crit'Air (Ruanas, Reimsas) ir žalią Umweltzone (Kelnas, Achenas) lipdukus. 1-ą dieną A10/A2 poilsio aikštelėse būkite budrūs, nes policija ten fiksavo gudrias vagystes.",
  "top": [
   "fr-strike-1105",
@@ -1891,6 +1891,28 @@
    "date": "2026-10-21",
    "source": "L'Automobiliste",
    "url": "https://lautomobiliste.fr/21/10/2026/greve-sncf-novembre-routes-automobilistes-congestion/"
+  },
+  {
+   "id": "fr-gj-1031",
+   "title": "„Geltonųjų liemenių“ koordinacija: veiksmai spalio 24 ir 31 d., toliau – lapkričio 5 d. mobilizacija",
+   "text": "Raginama tęsti sutrikdymus ir logistikos blokadas. Prancūzijoje sekite vietos naujienas, venkite kelių blokadų, degalų papildykite iš anksto.",
+   "days": [
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "places": [
+    "rouen",
+    "reims"
+   ],
+   "importance": 2,
+   "score": 6,
+   "level": 2,
+   "date": "2026-10-24",
+   "source": "Le Bonbon",
+   "url": "https://lebonbon.fr/paris/news/apres-17-octobre-deux-nouvelles-manifestations-24-31-octobre/"
   }
  ]
 }
