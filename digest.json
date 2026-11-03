@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-03T04:02:13Z",
- "summary": "Daugelyje vietų sąlygos įprastos: dažniausiai pasitaiko kelio darbų, pasienio patikrų ir kišenvagių lankomose vietose. Labiausiai pasiruoškite 7-ajai dienai (11-05). Tą dieną Prancūzijoje paskelbtas nacionalinis streikas ir demonstracijos, o Grand Est (~24–31 % degalinių) ir Elzase trūksta degalų, situacija pablogėjo, todėl iš Reimso išvykite anksti ir pilnu baku. Vogėzų perėjoms nuo 11-01 privaloma žieminė įranga (3PMSF padangos arba grandinės). Priklijuokite Crit'Air (Ruanas, Reimsas) ir žalią Umweltzone (Kelnas, Achenas) lipdukus. 1-ą dieną A10/A2 poilsio aikštelėse būkite budrūs, nes policija ten fiksavo gudrias vagystes.",
+ "updated": "2026-11-03T16:02:35Z",
+ "summary": "Daugelyje vietų sąlygos įprastos: dažniausiai pasitaiko kelio darbų, pasienio patikrų ir kišenvagių lankomose vietose. Labiausiai pasiruoškite 7-ajai dienai (11-05). Tą dieną Prancūzijoje paskelbtas nacionalinis streikas ir demonstracijos, o Grand Est (~24–31 % degalinių) ir Elzase trūksta degalų, situacija pablogėjo, todėl iš Reimso išvykite anksti ir pilnu baku. Vogėzų perėjoms nuo 11-01 privaloma žieminė įranga (3PMSF padangos arba grandinės). Priklijuokite Crit'Air (Ruanas, Reimsas) ir žalią Umweltzone (Kelnas, Achenas) lipdukus. 1-ą dieną A10/A2 poilsio aikštelėse būkite budrūs, nes policija ten fiksavo gudrias vagystes. Lapkričio 3 d. patikrinta: nauji uždarymai ar oficialūs įspėjimai Vokietijoje ir Lenkijoje 6–10 d. nepaskelbti; geltonųjų liemenių blokados galimos 11-06–07.",
  "top": [
   "fr-strike-1105",
   "lor-carburant-ge",
@@ -1876,7 +1876,7 @@
   {
    "id": "fr-sncf-strike-1105",
    "title": "SNCF profsąjungos taip pat kviečia streikuoti lapkričio 5 d.",
-   "text": "SNCF streikas 11-05: traukų sutrikimai perkels srautą į kelius – prie miestų, A4/A31 laukite spūsčių. Kai kurie „geltonųjų liemenių“ kolektyvai kviečia blokuoti (nepatvirtinta). Lapkričio 3 d. profsąjungos renkasi prie S",
+   "text": "SNCF streikas 11-05: eismo planas skelbiamas 11-04 vakare SNCF Connect. Traukų sutrikimai perkels srautą į kelius – laukite spūsčių prie miestų, A4/A31.",
    "days": [
     7
    ],
@@ -1895,7 +1895,7 @@
   {
    "id": "fr-gj-1031",
    "title": "„Geltonųjų liemenių“ koordinacija: veiksmai spalio 24 ir 31 d., toliau – lapkričio 5 d. mobilizacija",
-   "text": "Raginama tęsti sutrikdymus ir logistikos blokadas. Prancūzijoje sekite vietos naujienas, venkite kelių blokadų, degalų papildykite iš anksto.",
+   "text": "Geltonųjų liemenių koordinacija kviečia 11-05 „liaudies lapkričio 5-ąją“, galimos blokados 11-06 ir protestų savaitgalis 11-06–07. Venkite blokadų, baką pripilkite iš anksto.",
    "days": [
     3,
     4,
@@ -1910,9 +1910,9 @@
    "importance": 2,
    "score": 6,
    "level": 2,
-   "date": "2026-10-24",
-   "source": "Le Bonbon",
-   "url": "https://lebonbon.fr/paris/news/apres-17-octobre-deux-nouvelles-manifestations-24-31-octobre/"
+   "date": "2026-11-03",
+   "source": "Sortiraparis",
+   "url": "https://www.sortiraparis.com/en/news/in-paris/articles/354559-protest-and-strike-on-november-5-2026-transport-schools-and-routes-what-to-expect"
   }
  ]
 }
